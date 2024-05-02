@@ -1,0 +1,867 @@
+id,year,product_name,company,country,industry_group,weight_kg,carbon_footprint_pcf,upstream_percent_total_pcf,operations_percent_total_pcf,downstream_percent_total_pcf
+10056-1-2014,2014,Frosted FlakesR Cereal,Kellogg Company,United States,"Food, Beverage & Tobacco",0.75,2.0,57.5,30.0,12.5
+10056-1-2015,2015,Frosted Flakes 23 oz produced in Lancaster PA one carton,Kellogg Company,United States,Food & Beverage Processing,0.75,2.0,57.5,30.0,12.5
+10222-1-2013,2013,Office Chair,KNOLL INC,United States,Capital Goods,20.68,72.54,80.63,17.36,2.01
+10261-1-2017,2017,Multifunction Printers,"Konica Minolta, Inc.",Japan,Technology Hardware & Equipment,110.0,1488.0,30.65,5.51,63.84
+10261-2-2017,2017,Multifunction Printers,"Konica Minolta, Inc.",Japan,Technology Hardware & Equipment,110.0,1818.0,25.08,4.51,70.41
+10261-3-2017,2017,Multifunction Printers,"Konica Minolta, Inc.",Japan,Technology Hardware & Equipment,110.0,2274.0,20.05,3.61,76.34
+10324-1-2016,2016,KURALON  fiber,"Kuraray Co., Ltd.",Japan,Materials,1500.0,10000.0,44.52,23.13,32.34
+10418-1-2013,2013,Portland Cement,Lafarge S.A.,France,Materials,1000.0,1102.0,44.52,23.13,32.34
+10661-10-2014,2014,Regular Straight 505 Jeans  Steel WaterLess,Levi Strauss & Co.,United States,Consumer Durables & Apparel,0.77,15.0,44.52,23.13,32.34
+10661-10-2015,2015,Regular Straight 505 Jeans  Steel WaterLess,Levi Strauss & Co.,United States,"Textiles, Apparel, Footwear and Luxury Goods",0.77,15.0,44.52,23.13,32.34
+10661-10-2016,2016,Regular Straight 505 Jeans  Steel WaterLess,Levi Strauss & Co.,United States,Consumer Durables & Apparel,0.77,15.0,44.52,23.13,32.34
+10661-11-2014,2014,501 Original Jeans  Rinse Run,Levi Strauss & Co.,United States,Consumer Durables & Apparel,1.0,15.0,44.52,23.13,32.34
+10661-11-2015,2015,501 Original Jeans  Rinse Run,Levi Strauss & Co.,United States,"Textiles, Apparel, Footwear and Luxury Goods",1.0,16.0,44.52,23.13,32.34
+10661-1-2014,2014,501 Original Jeans  Dark Stonewash,Levi Strauss & Co.,United States,Consumer Durables & Apparel,1.0,16.0,44.52,23.13,32.34
+10661-1-2015,2015,501 Original Jeans  Dark Stonewash,Levi Strauss & Co.,United States,"Textiles, Apparel, Footwear and Luxury Goods",1.0,16.0,44.52,23.13,32.34
+10661-1-2016,2016,501 Original Jeans  Dark Stonewash,Levi Strauss & Co.,United States,Consumer Durables & Apparel,1.0,16.0,44.52,23.13,32.34
+10661-2-2014,2014,Slim Straight 514 Jeans  Indigo Wash,Levi Strauss & Co.,United States,Consumer Durables & Apparel,0.68,8.6,44.52,23.13,32.34
+10661-2-2015,2015,Slim Straight 514 Jeans  Indigo Wash,Levi Strauss & Co.,United States,"Textiles, Apparel, Footwear and Luxury Goods",0.68,8.6,44.52,23.13,32.34
+10661-2-2016,2016,Slim Straight 514 Jeans  Indigo Wash,Levi Strauss & Co.,United States,Consumer Durables & Apparel,0.88,8.6,44.52,23.13,32.34
+10661-3-2014,2014,Slim Straight 514 Jeans  Rigid Tank,Levi Strauss & Co.,United States,Consumer Durables & Apparel,0.68,7.7,44.52,23.13,32.34
+10661-3-2015,2015,Slim Straight 514 Jeans  Rigid Tank,Levi Strauss & Co.,United States,"Textiles, Apparel, Footwear and Luxury Goods",0.68,7.7,44.52,23.13,32.34
+10661-3-2016,2016,Slim Straight 514 Jeans  Rigid Tank,Levi Strauss & Co.,United States,Consumer Durables & Apparel,0.88,7.7,44.52,23.13,32.34
+10661-4-2014,2014,501 Original Jeans  Light Stonewash,Levi Strauss & Co.,United States,Consumer Durables & Apparel,1.0,15.0,44.52,23.13,32.34
+10661-4-2015,2015,501 Original Jeans  Light Stonewash,Levi Strauss & Co.,United States,"Textiles, Apparel, Footwear and Luxury Goods",1.0,15.0,44.52,23.13,32.34
+10661-5-2014,2014,501 Original Jeans  Medium Stonewash,Levi Strauss & Co.,United States,Consumer Durables & Apparel,1.0,16.0,44.52,23.13,32.34
+10661-5-2015,2015,501 Original Jeans  Medium Stonewash,Levi Strauss & Co.,United States,"Textiles, Apparel, Footwear and Luxury Goods",1.0,16.0,44.52,23.13,32.34
+10661-6-2014,2014,Slim Straight 514 Jeans  Tumbled Rigid,Levi Strauss & Co.,United States,Consumer Durables & Apparel,0.68,16.0,44.52,23.13,32.34
+10661-6-2015,2015,Slim Straight 514 Jeans  Tumbled Rigid,Levi Strauss & Co.,United States,"Textiles, Apparel, Footwear and Luxury Goods",0.68,16.0,44.52,23.13,32.34
+10661-7-2014,2014,Regular Straight 505 Jeans  Range WaterLess,Levi Strauss & Co.,United States,Consumer Durables & Apparel,0.77,16.0,44.52,23.13,32.34
+1198-2-2014,2014,USB software,"Autodesk, Inc.",United States,Software & Services,0.01,2.29,67.61,2.22,30.17
+10661-7-2015,2015,Regular Straight 505 Jeans  Range WaterLess,Levi Strauss & Co.,United States,"Textiles, Apparel, Footwear and Luxury Goods",0.77,16.0,44.52,23.13,32.34
+10661-8-2014,2014,Regular Straight 505 Jeans  Range,Levi Strauss & Co.,United States,Consumer Durables & Apparel,0.77,16.0,44.52,23.13,32.34
+10661-8-2015,2015,Regular Straight 505 Jeans  Range,Levi Strauss & Co.,United States,"Textiles, Apparel, Footwear and Luxury Goods",0.77,16.0,44.52,23.13,32.34
+10661-9-2014,2014,Regular Straight 505 Jeans  House Cat,Levi Strauss & Co.,United States,Consumer Durables & Apparel,0.77,15.0,44.52,23.13,32.34
+10661-9-2015,2015,Regular Straight 505 Jeans  House Cat,Levi Strauss & Co.,United States,"Textiles, Apparel, Footwear and Luxury Goods",0.77,16.0,44.52,23.13,32.34
+10666-10-2014,2014,MS315DN  Mono Laser Printer,"Lexmark International, Inc.",United States,Technology Hardware & Equipment,16.03,1616.172,44.52,23.13,32.34
+10666-11-2014,2014,MS410DN  Mono Laser Printer,"Lexmark International, Inc.",United States,Technology Hardware & Equipment,15.9,1523.19,44.52,23.13,32.34
+10666-1-2014,2014,CX310DN  Color Laser Printer,"Lexmark International, Inc.",United States,Technology Hardware & Equipment,31.37,2358.38,44.52,23.13,32.34
+10666-12-2014,2014,MS415DN  Mono Laser Printer,"Lexmark International, Inc.",United States,Technology Hardware & Equipment,16.03,1524.56,44.52,23.13,32.34
+10666-13-2014,2014,MS510DN  Mono Laser Printer,"Lexmark International, Inc.",United States,Technology Hardware & Equipment,16.67,1617.69,44.52,23.13,32.34
+10666-14-2014,2014,MS610DE  Mono Laser Printer,"Lexmark International, Inc.",United States,Technology Hardware & Equipment,18.37,1978.08,44.52,23.13,32.34
+10666-15-2014,2014,MS610DN  Mono Laser Printer,"Lexmark International, Inc.",United States,Technology Hardware & Equipment,17.58,1957.73,44.52,23.13,32.34
+10666-16-2014,2014,MS810DE  Mono Laser Printer,"Lexmark International, Inc.",United States,Technology Hardware & Equipment,27.49,2106.94,44.52,23.13,32.34
+10666-17-2014,2014,MS810DN  Mono Laser Printer,"Lexmark International, Inc.",United States,Technology Hardware & Equipment,27.44,2005.36,44.52,23.13,32.34
+10666-18-2014,2014,MS811DN  Mono Laser Printer,"Lexmark International, Inc.",United States,Technology Hardware & Equipment,27.44,2387.57,44.52,23.13,32.34
+10666-19-2014,2014,MS812DE  Mono Laser Printer,"Lexmark International, Inc.",United States,Technology Hardware & Equipment,27.76,2744.39,44.52,23.13,32.34
+10666-20-2014,2014,MS812DN  Mono Laser Printer,"Lexmark International, Inc.",United States,Technology Hardware & Equipment,27.44,2747.47,44.52,23.13,32.34
+10666-21-2014,2014,MX310DN  Mono Laser Printer,"Lexmark International, Inc.",United States,Technology Hardware & Equipment,22.45,1140.41,44.52,23.13,32.34
+10666-2-2014,2014,CX410DE  Color Laser Printer,"Lexmark International, Inc.",United States,Technology Hardware & Equipment,31.37,3236.35,44.52,23.13,32.34
+10666-22-2014,2014,MX410DE  Mono Laser Printer,"Lexmark International, Inc.",United States,Technology Hardware & Equipment,23.02,1498.6,44.52,23.13,32.34
+10666-23-2014,2014,MX511DE  Mono Laser Printer,"Lexmark International, Inc.",United States,Technology Hardware & Equipment,25.4,1678.97,44.52,23.13,32.34
+10666-24-2014,2014,MX611DE  Mono Laser Printer,"Lexmark International, Inc.",United States,Technology Hardware & Equipment,28.03,2132.34,44.52,23.13,32.34
+10666-25-2014,2014,MX710DE  Mono Laser Printer,"Lexmark International, Inc.",United States,Technology Hardware & Equipment,57.15,2923.11,44.52,23.13,32.34
+10666-26-2014,2014,MX711DE  Mono Laser Printer,"Lexmark International, Inc.",United States,Technology Hardware & Equipment,57.15,3127.248,44.52,23.13,32.34
+10666-27-2014,2014,MX810DFE  Mono Laser Printer,"Lexmark International, Inc.",United States,Technology Hardware & Equipment,118.07,2536.12,44.52,23.13,32.34
+10666-28-2014,2014,MX811DFE  Mono Laser Printer,"Lexmark International, Inc.",United States,Technology Hardware & Equipment,118.07,2973.37,44.52,23.13,32.34
+1198-2-2015,2015,USB software,"Autodesk, Inc.",United States,Software & Services,0.01,2.29,67.61,2.22,30.17
+10666-29-2014,2014,MX812DFE  Mono Laser Printer,"Lexmark International, Inc.",United States,Technology Hardware & Equipment,118.07,3335.99,44.52,23.13,32.34
+10666-3-2014,2014,CX510DE  Color Laser Printer,"Lexmark International, Inc.",United States,Technology Hardware & Equipment,32.66,3128.864,44.52,23.13,32.34
+10666-4-2014,2014,CS310DN  Color Laser Printer,"Lexmark International, Inc.",United States,Technology Hardware & Equipment,20.32,1968.62,44.52,23.13,32.34
+10666-5-2014,2014,CS410DN  Color Laser Printer,"Lexmark International, Inc.",United States,Technology Hardware & Equipment,20.5,3143.478,44.52,23.13,32.34
+10666-6-2014,2014,CS510DE  Color Laser Printer,"Lexmark International, Inc.",United States,Technology Hardware & Equipment,20.91,3024.602,44.52,23.13,32.34
+10666-7-2014,2014,M5163  Mono Laser Printer,"Lexmark International, Inc.",United States,Technology Hardware & Equipment,23.7,2597.12,44.52,23.13,32.34
+10666-8-2014,2014,MS310DN  Mono Laser Printer,"Lexmark International, Inc.",United States,Technology Hardware & Equipment,15.81,1504.51,44.52,23.13,32.34
+10666-9-2014,2014,MS312DN  Mono Laser Printer,"Lexmark International, Inc.",United States,Technology Hardware & Equipment,15.81,1490.36,44.52,23.13,32.34
+10667-1-2014,2014,Mobile Batteries,LG Chem Ltd,South Korea,Materials,1000.0,5846.0,44.52,23.13,32.34
+10667-1-2015,2015,Mobile Batteries,LG Chem Ltd,South Korea,Chemicals,1000.0,10245.0,44.52,23.13,32.34
+10667-2-2013,2013,LG Chems automotive batteries are sustaining the undisputed No1 position in the world based on more than 10 years of RD capability LG Chem is equipped with solutions for all types of electrical cars Hybrid EV Pluggedin EV Battery EV based on strong product development capability and manufacturing competitiveness via mass production experience This enables LG Chem to supply battery cell pack and BMS Battery Management System to global carmakers such as GM Ford Renault HyundaiKia and Volvo LG Chem expects the increased revenue from its automotive battery business by being awarded nextgeneration projects from existing customers while strengthening strategic partnerships and securing new customers Additionally LG Chem plans to launch new products to meet customer needs in new applications such as SLI and garden tools,LG Chem Ltd,South Korea,Materials,1000.0,3197.1,44.52,23.13,32.34
+10667-2-2014,2014,Automotive Batteries,LG Chem Ltd,South Korea,Materials,1000.0,3113.0,44.52,23.13,32.34
+10667-2-2015,2015,Automotive Batteries,LG Chem Ltd,South Korea,Chemicals,1000.0,6309.0,44.52,23.13,32.34
+10667-2-2016,2016,Automotive Battery,LG Chem Ltd,South Korea,Materials,1000.0,4286.0,44.52,23.13,32.34
+10667-3-2015,2015,ABS Acrylonitrile Butadiene Styrene,LG Chem Ltd,South Korea,Chemicals,1000.0,876.0,44.52,23.13,32.34
+10667-3-2016,2016,ABSAcrylonitrile Butadiene Styrene,LG Chem Ltd,South Korea,Materials,1000.0,396.0,44.52,23.13,32.34
+10667-4-2016,2016,BPABisphenolA,LG Chem Ltd,South Korea,Materials,1000.0,1088.0,44.52,23.13,32.34
+10667-5-2016,2016,ITNew Application Battery,LG Chem Ltd,South Korea,Materials,1000.0,10607.0,44.52,23.13,32.34
+10670-1-2013,2013,LGE970,LG Electronics,South Korea,Consumer Durables & Apparel,0.15,7.0,11.28,0.01,88.7
+10834-1-2015,2015,Mouse M185,Logitech International SA,Switzerland,Technology Hardware & Equipment,0.14,4.32,4.63,60.42,34.95
+1085-1-2013,2013,White crystalline sugar,Associated British Foods,United Kingdom,"Food, Beverage & Tobacco",1000.0,650.0,46.15,53.85,0.0
+1085-1-2014,2014,Sugar,Associated British Foods,United Kingdom,"Food, Beverage & Tobacco",1000.0,650.0,44.52,23.13,32.34
+1085-1-2016,2016,Sugar,Associated British Foods,United Kingdom,"Food, Beverage & Tobacco",1000.0,650.0,44.52,23.13,32.34
+11152-1-2013,2013,grinding media cast,MAGOTTEAUX,Brazil,Materials,1500.0,1750.0,44.52,23.13,32.34
+11632-1-2016,2016,IC chips of Smartphone,MediaTek,Taiwan,Semiconductors & Semiconductor Equipment,0.1,1.719,72.39,27.61,0.0
+1198-1-2013,2013,1 DVD Software Package,"Autodesk, Inc.",United States,Software & Services,0.09,1.28,44.52,23.13,32.34
+1198-1-2014,2014,DVD software,"Autodesk, Inc.",United States,Software & Services,0.09,1.28,44.05,11.15,44.79
+1198-1-2015,2015,DVD software 1 DVD,"Autodesk, Inc.",United States,Software & Services,0.09,1.28,44.05,11.15,44.8
+1198-2-2013,2013,USB Software,"Autodesk, Inc.",United States,Software & Services,0.01,2.285,75.54,2.22,22.24
+1198-4-2015,2015,DVD software 2 DVDs,"Autodesk, Inc.",United States,Software & Services,0.18,1.67,43.72,17.13,39.15
+12084-1-2016,2016,Filtro 26 WS,Miquel Y Costas,Spain,Materials,1.0,3.0,44.52,23.13,32.34
+12117-1-2013,2013,Dell Laptop,MITIE Group,United Kingdom,Commercial & Professional Services,2.32,320.0,44.52,23.13,32.34
+12117-2-2013,2013,KimberleyClark toilet tissue 10000 sheets,MITIE Group,United Kingdom,Commercial & Professional Services,4.2,20.0,44.52,23.13,32.34
+12134-1-2017,2017,Paraformaldehyde,"Mitsubishi Gas Chemical Company, Inc.",Japan,Materials,500.0,200.0,56.5,29.93,13.57
+12134-2-2017,2017,Methacrylic acid,"Mitsubishi Gas Chemical Company, Inc.",Japan,Materials,20.0,71.0,64.44,34.13,1.43
+12134-3-2017,2017,Hydrogen peroxide,"Mitsubishi Gas Chemical Company, Inc.",Japan,Materials,20.0,4.0,65.22,34.54,0.24
+12134-4-2017,2017,Amines,"Mitsubishi Gas Chemical Company, Inc.",Japan,Materials,9.0,8.0,63.68,33.73,2.6
+12134-5-2017,2017,Peroxides,"Mitsubishi Gas Chemical Company, Inc.",Japan,Materials,25.0,42.0,63.82,33.8,2.38
+12134-6-2017,2017,Superpure hydrogen peroxide,"Mitsubishi Gas Chemical Company, Inc.",Japan,Materials,17736.0,6469.0,44.52,23.13,32.34
+12134-7-2017,2017,ELM,"Mitsubishi Gas Chemical Company, Inc.",Japan,Materials,160.0,139.0,7.13,3.77,89.1
+12134-8-2017,2017,TCDE,"Mitsubishi Gas Chemical Company, Inc.",Japan,Materials,12000.0,99075.0,64.95,34.4,0.66
+12289-1-2017,2017,Zinc Oxide,"Mitsui Mining & Smelting Co., Ltd.",Japan,Capital Goods,20.0,5.6724,44.52,23.13,32.34
+12348-1-2013,2013,500ml Coors Light brewed in the UK steal can CO2e expressed in CO2e hl,Molson Coors Brewing Company,United States,"Food, Beverage & Tobacco",100.0,31.37,44.52,23.13,32.34
+12348-2-2013,2013,Carling brewed in the UK 24 440ml cans in 4 packs,Molson Coors Brewing Company,United States,"Food, Beverage & Tobacco",12.03,3.02,44.52,23.13,32.34
+12348-2-2014,2014,Carling brewed in the UK 24 440ml cans in 4 packs,Molson Coors Brewing Company,United States,"Food, Beverage & Tobacco",12.03,3.07,44.52,23.13,32.34
+12348-3-2013,2013,Carling brewed in the UK 24 568ml cans in 4 packs,Molson Coors Brewing Company,United States,"Food, Beverage & Tobacco",15.53,2.06,44.52,23.13,32.34
+12348-3-2014,2014,Carling brewed in the UK 24 568ml cans in 4 packs,Molson Coors Brewing Company,United States,"Food, Beverage & Tobacco",15.53,2.0519,44.52,23.13,32.34
+12348-4-2014,2014,Coors Light brewed in the UK 24 500ml cans in 4 packs,Molson Coors Brewing Company,United States,"Food, Beverage & Tobacco",13.67,3.732,64.93,28.58,6.49
+12903-1-2015,2015,Server,NEC Corporation,Japan,Technology Hardware & Equipment,19.28,1600.0,5.4,2.06,92.54
+12903-2-2015,2015,Broadband Routers,NEC Corporation,Japan,Technology Hardware & Equipment,0.82,56.0,44.52,23.13,32.34
+12903-3-2015,2015,Mobile Network Equipment,NEC Corporation,Japan,Technology Hardware & Equipment,19.28,10273.0,1.83,0.7,97.48
+12942-1-2013,2013,1 dl cup of spray dried soluble Nescaf coffee ready to be drunk at the consumers home,Nestlé,Switzerland,"Food, Beverage & Tobacco",0.1,0.07,24.43,16.03,59.54
+12942-1-2014,2014,Nescaf soluble coffee,Nestlé,Switzerland,"Food, Beverage & Tobacco",0.1,0.032,44.52,23.13,32.34
+12942-1-2015,2015,Nescaf soluble coffee,Nestlé,Switzerland,Food & Beverage Processing,0.1,0.032,44.52,23.13,32.34
+12942-1-2016,2016,Nescaf soluble coffee,Nestlé,Switzerland,"Food, Beverage & Tobacco",0.12,0.052,49.61,11.05,39.34
+12942-2-2013,2013,EcoShape  bottle of water 05 L Serving of 500 ml of hydration to the consumer The study examines the extraction and processing of all upstream raw materials to produce the products and packaging components the manufacturing process distribution logistics product use and packaging disposal The work has been conducted using the Ecoinvent database and SimaPro software  Climate change impacts are measured in kg CO2 equivalents following the IPCCs most recent methodology  Scenario evaluations have been used to examine the importance of several variables in the product comparison These include a range of possible consumer behaviours regarding the use of the products such as conditions of refrigeration washing of glasses and disposal routes for packaging among others,Nestlé,Switzerland,"Food, Beverage & Tobacco",0.54,0.1405,45.88,4.92,49.2
+12942-2-2014,2014,EcoShape  bottle of water 05 L,Nestlé,Switzerland,"Food, Beverage & Tobacco",0.54,0.1405,45.75,4.91,49.34
+12942-2-2015,2015,EcoShape bottle of water 05 L,Nestlé,Switzerland,Food & Beverage Processing,0.54,0.1405,45.75,4.91,49.34
+12942-2-2016,2016,EcoShape bottle of water 05 L,Nestlé,Switzerland,"Food, Beverage & Tobacco",0.54,0.1405,45.75,4.91,49.34
+12942-3-2013,2013,Nestl Babyfood NaturNes packaging  plastic pot The good assessed Packaging systems used to provide one baby food meal in France Spain and Germany The 200g packaging size was selected as the basis for this study The total emissions in kg CO2e per unit provided in this report is the figure for France as it is not possible to list all three data in one cell Please find detail by country and life cycle stages in questiom SM32b,Nestlé,Switzerland,"Food, Beverage & Tobacco",0.02,0.184,44.02,7.61,48.37
+17659-2-2014,2014,Staples Sustainable Earth 38A toner cartridge,"Staples, Inc.",United States,Retailing,0.82,8.38,78.45,5.26,16.29
+12942-4-2013,2013,Nestl Babyfood NaturNes packaging  plastic pot The good assessed Packaging systems used to provide one baby food meal in France Spain and Germany The 200g packaging size was selected as the basis for this study The total emissions in kg CO2e per unit provided in this report is the figure for France as it is not possible to list all three data in one cell Please find detail by country and life cycle stages in questiom SM32b,Nestlé,Switzerland,"Food, Beverage & Tobacco",0.02,0.143,56.64,13.29,30.07
+12942-5-2013,2013,Nestl Babyfood NaturNes packaging  plastic pot The good assessed Packaging systems used to provide one baby food meal in France Spain and Germany The 200g packaging size was selected as the basis for this study The total emissions in kg CO2e per unit provided in this report is the figure for France as it is not possible to list all three data in one cell Please find detail by country and life cycle stages in questiom SM32b,Nestlé,Switzerland,"Food, Beverage & Tobacco",0.02,0.125,64.8,11.2,24.0
+13360-1-2013,2013,Average mobile phone,Nokia Group,Finland,Technology Hardware & Equipment,0.22,12.0,54.17,4.17,41.67
+13360-1-2014,2014,Mobile phone,Nokia Group,Finland,Technology Hardware & Equipment,0.22,12.0,54.17,4.17,41.67
+13360-2-2013,2013,Nokia Lumia 800 Nokias high end smart phone mass  142 g including battery,Nokia Group,Finland,Technology Hardware & Equipment,0.14,16.0,65.43,3.7,30.86
+13360-3-2013,2013,Nokia Asha 300 Nokias low end device mass  85 g incluging battery,Nokia Group,Finland,Technology Hardware & Equipment,0.08,8.0,37.83,7.09,55.08
+13889-10-2017,2017,ECU,OMRON Corporation,Japan,Technology Hardware & Equipment,1.06,7.5,44.52,23.13,32.34
+13889-11-2017,2017,Laser radar,OMRON Corporation,Japan,Technology Hardware & Equipment,1.34,86.2,44.52,23.13,32.34
+13889-1-2014,2014,Blood Pressure Monitor HEM7113,OMRON Corporation,Japan,Technology Hardware & Equipment,0.54,28.2,44.52,23.13,32.34
+13889-12-2017,2017,Power window switch,OMRON Corporation,Japan,Technology Hardware & Equipment,0.45,9.0,44.52,23.13,32.34
+13889-13-2017,2017,Safety controller,OMRON Corporation,Japan,Technology Hardware & Equipment,0.42,1.617,44.52,23.13,32.34
+13889-14-2017,2017,Switch,OMRON Corporation,Japan,Technology Hardware & Equipment,0.25,0.069,44.52,23.13,32.34
+13889-2-2014,2014,Keyless Entry System for AutomobilesTransmitter  Receiver unit,OMRON Corporation,Japan,Technology Hardware & Equipment,0.11,8.96,44.52,23.13,32.34
+13889-4-2014,2014,Signal Relay Type G6Zk1FTR,OMRON Corporation,Japan,Technology Hardware & Equipment,0.0,0.145,44.52,23.13,32.34
+13889-5-2017,2017,Automotive Relay,OMRON Corporation,Japan,Technology Hardware & Equipment,0.03,3.3,44.52,23.13,32.34
+13889-6-2017,2017,Automotive Relay,OMRON Corporation,Japan,Technology Hardware & Equipment,0.03,1.1,44.52,23.13,32.34
+13889-7-2017,2017,Automotive Relay,OMRON Corporation,Japan,Technology Hardware & Equipment,0.03,0.6,44.52,23.13,32.34
+13889-8-2017,2017,Blood Pressure Monitor,OMRON Corporation,Japan,Technology Hardware & Equipment,0.25,28.2,44.52,23.13,32.34
+13889-9-2017,2017,ECU,OMRON Corporation,Japan,Technology Hardware & Equipment,1.06,7.5,44.52,23.13,32.34
+14021-1-2013,2013,City gas,"Osaka Gas Co., Ltd.",Japan,Utilities,1.06,60.58,12.51,2.69,84.8
+14021-1-2015,2015,City gas,"Osaka Gas Co., Ltd.",Japan,Gas Utilities,1.06,60.58,12.51,2.69,84.8
+14021-1-2016,2016,City gas,"Osaka Gas Co., Ltd.",Japan,Utilities,1.06,60.64,12.34,1.19,86.48
+14605-1-2013,2013,Walkers Crisps 325 g sold in the United Kingdom,"PepsiCo, Inc.",United States,"Food, Beverage & Tobacco",0.03,0.08,44.52,23.13,32.34
+14605-1-2014,2014,Walkers Crisps 325 g sold in the United Kingdom,"PepsiCo, Inc.",United States,"Food, Beverage & Tobacco",0.03,0.08,44.52,23.13,32.34
+14605-1-2015,2015,Walkers Crisps 325 g sold in the United Kingdom,"PepsiCo, Inc.",United States,Food & Beverage Processing,0.03,0.08,44.52,23.13,32.34
+14605-2-2013,2013,Walkers Crisps 50g bag sold in the United Kingdom,"PepsiCo, Inc.",United States,"Food, Beverage & Tobacco",0.05,0.12,44.52,23.13,32.34
+14605-2-2014,2014,Walkers Crisps 50g bag sold in the United Kingdom,"PepsiCo, Inc.",United States,"Food, Beverage & Tobacco",0.05,0.12,44.52,23.13,32.34
+14605-2-2015,2015,Walkers Crisps 50g bag sold in the United Kingdom,"PepsiCo, Inc.",United States,Food & Beverage Processing,0.05,0.12,44.52,23.13,32.34
+14605-3-2013,2013,Quaker Oats 1Kg box sold in the United Kingdom,"PepsiCo, Inc.",United States,"Food, Beverage & Tobacco",0.04,0.07,44.52,23.13,32.34
+14605-3-2014,2014,Quaker Oats 1Kg box sold in the United Kingdom,"PepsiCo, Inc.",United States,"Food, Beverage & Tobacco",0.04,0.07,44.52,23.13,32.34
+14605-3-2015,2015,Quaker Oats 1Kg box sold in the United Kingdom,"PepsiCo, Inc.",United States,Food & Beverage Processing,0.04,0.07,44.52,23.13,32.34
+14605-4-2013,2013,Quaker Oats So Simple Original and Golden Syrup products,"PepsiCo, Inc.",United States,"Food, Beverage & Tobacco",0.32,0.65,44.52,23.13,32.34
+14605-4-2014,2014,Quaker Oats So Simple Original and Golden Syrup products,"PepsiCo, Inc.",United States,"Food, Beverage & Tobacco",0.32,0.65,44.52,23.13,32.34
+14605-4-2015,2015,Quaker Oats So Simple Original and Golden Syrup products,"PepsiCo, Inc.",United States,Food & Beverage Processing,0.32,0.65,44.52,23.13,32.34
+14697-1-2013,2013,HH DVD,Philips & Lite-On Digital Solutions Corp.,Taiwan,Technology Hardware & Equipment,0.09,25.5,44.52,23.13,32.34
+149-1-2013,2013,power supply unit MF6004030L,Acbel Polytech Inc,Taiwan,Technology Hardware & Equipment,1.8,244.09,43.69,46.44,9.87
+15391-1-2013,2013,CDROM,Quanta Storage Inc.,China,Technology Hardware & Equipment,0.09,1.62,44.52,23.13,32.34
+15391-1-2014,2014,CDROM,Quanta Storage Inc.,China,Technology Hardware & Equipment,0.09,12.0,44.52,23.13,32.34
+15398-10-2014,2014,LED Lighting,Qisda,Taiwan,Technology Hardware & Equipment,6.3,33.31,98.38,1.38,0.24
+15398-11-2014,2014,Projector,Qisda,Taiwan,Technology Hardware & Equipment,2.8,88.96,87.7,12.06,0.24
+15398-1-2013,2013,19 LCD Monitor  Weight 24Kg  Diagonal size 19  Power consumption 1625W on mode 072W power saving mode 053W off mode Excluded from the study of carbon footprint of product were CDManual and Quick Start Guide,Qisda,Taiwan,Technology Hardware & Equipment,2.4,70.02,98.4,1.29,0.31
+15398-12-2014,2014,Mobile Phone,Qisda,Taiwan,Technology Hardware & Equipment,0.31,19.38,88.18,11.71,0.1
+15398-13-2015,2015,Monitor,Qisda,Taiwan,Technology Hardware & Equipment,7.4,66.19,97.21,2.24,0.56
+15398-13-2016,2016,Monitor,Qisda,Taiwan,Technology Hardware & Equipment,5.8,74.83,97.06,1.56,1.38
+15398-14-2015,2015,Projector,Qisda,Taiwan,Technology Hardware & Equipment,3.4,83.18,98.41,1.27,0.31
+15398-14-2016,2016,Projector,Qisda,Taiwan,Technology Hardware & Equipment,4.4,99.68,97.26,2.41,0.33
+15398-15-2015,2015,Mobile Phone,Qisda,Taiwan,Technology Hardware & Equipment,0.35,53.36,99.4,0.06,0.54
+15398-15-2016,2016,Mobile Phone,Qisda,Taiwan,Technology Hardware & Equipment,0.35,16.21,99.38,0.43,0.19
+15398-16-2015,2015,LED Lighting,Qisda,Taiwan,Technology Hardware & Equipment,8.2,69.12,82.96,16.88,0.16
+15398-16-2016,2016,LED Lighting,Qisda,Taiwan,Technology Hardware & Equipment,5.8,24.04,90.1,9.57,0.33
+15398-17-2015,2015,Industrial Solutions,Qisda,Taiwan,Technology Hardware & Equipment,14.2,146.41,96.88,2.7,0.42
+15398-18-2016,2016,Industrial Solutions,Qisda,Taiwan,Technology Hardware & Equipment,7.0,66.16,89.48,10.02,0.5
+15398-2-2013,2013,Projector  Weight 75Kg Lamp 24 pcs laser with phosphor Excluded from the study of carbon footprint of product were CDManual and Quick Start Guide,Qisda,Taiwan,Technology Hardware & Equipment,7.5,182.927,99.17,0.52,0.31
+15398-3-2013,2013,Mobile phone Weight 011kg Screen Diagonal 37 WVGA 800480 16M Color TFTLCD Power Consumption Standby time1300m Ah Up to 4 hrs depends on realnetwork Excluded from the study of carbon footprint of product were CDManual and Quick Start Guide,Qisda,Taiwan,Technology Hardware & Equipment,0.11,18.756,69.15,30.81,0.04
+15398-4-2013,2013,Digital Photo Frame Weight 08 kg Diagonal size 7D Overall Dimension 238202397mm Excluded from the study of carbon footprint of product were CDManual and Quick Start Guide,Qisda,Taiwan,Technology Hardware & Equipment,0.8,25.517,98.43,1.33,0.24
+15398-5-2013,2013,Scanner  Weight 14 kg Power supply 12V15A Excluded from the study of carbon footprint of product were CDManual and Quick Start Guide,Qisda,Taiwan,Technology Hardware & Equipment,1.4,20.886,95.47,4.52,0.01
+15398-6-2014,2014,Monitor,Qisda,Taiwan,Technology Hardware & Equipment,11.0,105.56,96.47,3.01,0.52
+15398-7-2014,2014,42 Industrial Solutions,Qisda,Taiwan,Technology Hardware & Equipment,23.0,174.46,96.89,1.71,1.39
+15398-8-2014,2014,Mobile Infotainment,Qisda,Taiwan,Technology Hardware & Equipment,0.7,25.72,97.2,2.6,0.19
+15398-9-2014,2014,Surveillance Camera  Products,Qisda,Taiwan,Technology Hardware & Equipment,0.16,6.13,90.38,8.81,0.82
+15673-1-2013,2013,BlackBerry Bold 9900,BlackBerry Limited,Canada,Telecommunication Services,0.13,52.2,44.18,16.85,38.96
+15673-2-2014,2014,BlackBerry Z10,BlackBerry Limited,Canada,Technology Hardware & Equipment,0.14,57.1,45.69,17.43,36.88
+15673-3-2015,2015,BlackBerry Passport,BlackBerry Limited,Canada,Technology Hardware & Equipment,0.2,65.1,43.73,16.68,39.59
+15673-3-2016,2016,BlackBerry Passport,BlackBerry Limited,Canada,Technology Hardware & Equipment,0.2,65.1,43.73,16.68,39.59
+15673-4-2016,2016,BlackBerry Classic,BlackBerry Limited,Canada,Technology Hardware & Equipment,0.18,62.8,44.03,16.79,39.17
+15673-5-2016,2016,BlackBerry Priv,BlackBerry Limited,Canada,Technology Hardware & Equipment,0.19,79.9,45.13,17.21,37.66
+15763-10-2017,2017,Ricoh SP C352DN,"Ricoh Co., Ltd.",Japan,Technology Hardware & Equipment,33.0,1640.0,7.73,2.12,90.15
+15763-1-2013,2013,Ricoh Aficio MP 6002SP a Monochrome MFP Multifunction products products that function as Copier Network Printer Scanner Facsimile,"Ricoh Co., Ltd.",Japan,Technology Hardware & Equipment,214.0,2400.0,44.52,23.13,32.34
+15763-2-2013,2013,Ricoh Aficio MP C5502G a Fullcolor MFP Multifunction products products that function as Copier Network Printer Scanner Facsimile,"Ricoh Co., Ltd.",Japan,Technology Hardware & Equipment,130.0,2100.0,44.52,23.13,32.34
+15763-3-2013,2013,Ricoh Aficio SP 8300DN a highspeed Monochrome Network Printer,"Ricoh Co., Ltd.",Japan,Technology Hardware & Equipment,73.0,1297.0,44.52,23.13,32.34
+15763-4-2013,2013,Ricoh Aficio SP C831DN a highspeed Fullcolour Network Printer,"Ricoh Co., Ltd.",Japan,Technology Hardware & Equipment,97.0,3210.0,44.52,23.13,32.34
+15763-5-2013,2013,Ricoh Pro C751EX a Production Printer Full Color that is used primarily for highspeed and production type large print volume job,"Ricoh Co., Ltd.",Japan,Technology Hardware & Equipment,550.0,7368.0,44.52,23.13,32.34
+15763-6-2014,2014,Ricoh MP C5503,"Ricoh Co., Ltd.",Japan,Technology Hardware & Equipment,99.9,1940.0,44.52,23.13,32.34
+15763-7-2014,2014,Ricoh MP C8002SP The product is a highspeed 80 imagesminute color multifunctional product MFP and is a major representative of our image solution products business  The lifecycle emissions data of this product is provided as a case example of our entire image solution business products line which covers 77 of Ricohs total revenue,"Ricoh Co., Ltd.",Japan,Technology Hardware & Equipment,241.0,6140.0,44.52,23.13,32.34
+15763-8-2015,2015,Ricoh MP 6054SPG,"Ricoh Co., Ltd.",Japan,Technology Hardware & Equipment,74.0,1330.0,44.52,23.13,32.34
+15763-9-2015,2015,RICOH Pro C7110S QX100,"Ricoh Co., Ltd.",Japan,Technology Hardware & Equipment,600.0,8080.0,44.52,23.13,32.34
+16290-1-2013,2013,SBS Board,Sappi,South Africa,Materials,1000.0,968.0,44.52,23.13,32.34
+16290-1-2014,2014,AlgroDesign,Sappi,South Africa,Materials,1000.0,1031.6,30.17,69.83,0.0
+16290-2-2013,2013,One side coated label paper,Sappi,South Africa,Materials,1000.0,949.0,44.52,23.13,32.34
+16290-2-2014,2014,Parade Prima,Sappi,South Africa,Materials,1000.0,1042.8,30.92,69.08,0.0
+16290-3-2013,2013,Uncoated flexible packaging paper,Sappi,South Africa,Materials,1000.0,1033.0,44.52,23.13,32.34
+16290-3-2014,2014,Leine Mhle Leine Silk,Sappi,South Africa,Materials,1000.0,1060.9,32.1,67.9,0.0
+16290-4-2013,2013,One side coated flexible packaging paper,Sappi,South Africa,Materials,1000.0,973.0,44.52,23.13,32.34
+16290-4-2014,2014,Algro Helix,Sappi,South Africa,Materials,1000.0,1082.6,33.46,66.54,0.0
+16423-1-2013,2013,Acti9  Residual current circuit breaker  iID K The main function of the iID K product range is to ensure protection of people against electric shocks PEP of this product is available here httpplanetschneiderelectriccomC12577A200268439all14AA652B755F340C852577F3006F06D0Fileenvpep100201enpdf,Schneider Electric,France,Capital Goods,0.21,19.1,6.68,1.44,91.88
+16423-1-2014,2014,ACTI9 IID K 2P 40A 30MA ACTYPE RESIDUAL CURRENT CIRCUIT BREAKER,Schneider Electric,France,Capital Goods,0.21,19.1,6.68,1.44,91.88
+16423-1-2015,2015,ACTI9 IID K 2P 40A 30MA ACTYPE RESIDUAL CURRENT CIRCUIT BREAKER,Schneider Electric,France,Electrical Equipment and Machinery,0.21,19.1,6.68,1.44,91.88
+16423-2-2016,2016,ACTI9 IID K 2P 40A 30MA ACTYPE RESIDUAL CURRENT CIRCUIT BREAKER,Schneider Electric,France,Capital Goods,0.21,61.23,1.92,0.41,97.66
+17280-1-2013,2013,Corrugated box,Smurfit Kappa Group PLC,Ireland,Materials,1000.0,746.0,87.01,12.99,0.0
+17280-1-2014,2014,Corrugated Box,Smurfit Kappa Group PLC,Ireland,Materials,1000.0,746.0,87.01,12.99,0.0
+17280-1-2015,2015,Corrugated box,Smurfit Kappa Group PLC,Ireland,Containers & Packaging,1000.0,746.0,87.01,12.99,0.0
+17280-2-2013,2013,Board packaging,Smurfit Kappa Group PLC,Ireland,Materials,1000.0,964.0,87.01,12.99,0.0
+17280-2-2014,2014,Solid Board,Smurfit Kappa Group PLC,Ireland,Materials,1000.0,964.0,87.01,12.99,0.0
+17280-2-2015,2015,Solid Board,Smurfit Kappa Group PLC,Ireland,Containers & Packaging,1000.0,964.0,87.01,12.99,0.0
+17296-1-2014,2014,Sodium Carbonate,Solvay S.A.,Belgium,Materials,1.0,1.32,1.52,98.48,0.0
+17296-2-2014,2014,Sodium Bicarbonate,Solvay S.A.,Belgium,Materials,1.0,1.1,0.91,99.09,0.0
+17296-2-2015,2015,Sodium Bicarbonate,Solvay S.A.,Belgium,Chemicals,1.0,1.01,9.9,90.1,0.0
+17296-2-2016,2016,Sodium Bicarbonate,Solvay S.A.,Belgium,Materials,1.0,1.01,44.52,23.13,32.34
+17296-3-2015,2015,Dense Sodium Carbonate,Solvay S.A.,Belgium,Chemicals,1.0,1.29,10.85,89.15,0.0
+17296-3-2016,2016,Dense Sodium Carbonate,Solvay S.A.,Belgium,Materials,1.0,1.29,44.52,23.13,32.34
+17296-4-2015,2015,Light Sodium Carbonate,Solvay S.A.,Belgium,Chemicals,1.0,1.19,10.92,89.08,0.0
+17296-4-2016,2016,Light Sodium Carbonate,Solvay S.A.,Belgium,Materials,1.0,1.19,44.52,23.13,32.34
+17659-1-2014,2014,Staples Sustainable Earth 12A toner cartridge,"Staples, Inc.",United States,Retailing,0.82,2.526,71.85,7.62,20.53
+17659-1-2015,2015,Staples Sustainable Earth 12A toner cartridge,"Staples, Inc.",United States,Retailing,0.82,2.526,71.85,7.62,20.53
+17659-2-2015,2015,Staples Sustainable Earth 38A toner cartridge,"Staples, Inc.",United States,Retailing,0.82,8.38,78.45,5.26,16.29
+17673-1-2015,2015,D21710 Type 5 Corded Power Drill,"Stanley Black & Decker, Inc.",United States,Electrical Equipment and Machinery,1.82,55.67,44.52,23.13,32.34
+17673-1-2016,2016,D21710 Type 5 Corded Power Drill,"Stanley Black & Decker, Inc.",United States,Capital Goods,1.82,55.67,44.52,23.13,32.34
+17673-2-2015,2015,DC988 Type 11 Cordless Power Drill equipment with rechargeable NiCd batteries,"Stanley Black & Decker, Inc.",United States,Electrical Equipment and Machinery,2.7,88.13,44.52,23.13,32.34
+17673-2-2016,2016,Cordless Power Drill,"Stanley Black & Decker, Inc.",United States,Capital Goods,2.7,88.13,44.52,23.13,32.34
+17673-3-2016,2016,33725 Tape measure family,"Stanley Black & Decker, Inc.",United States,Capital Goods,0.5,2.15,78.19,16.84,4.97
+17788-10-2016,2016,BFree small cube European supply chain,Steelcase,United States,Commercial & Professional Services,13.05,23.0,44.52,23.13,32.34
+17788-11-2016,2016,BFree Table European supply chain,Steelcase,United States,Commercial & Professional Services,51.7,150.0,44.52,23.13,32.34
+17788-1-2013,2013,Lets B task chair,Steelcase,United States,Commercial & Professional Services,19.77,120.0,44.52,23.13,32.34
+17788-1-2014,2014,Lets B task chair,Steelcase,United States,Commercial & Professional Services,19.77,120.0,44.52,23.13,32.34
+17788-12-2016,2016,Eastside European supply chain,Steelcase,United States,Commercial & Professional Services,6.16,29.0,44.52,23.13,32.34
+17788-13-2016,2016,Flip Top Twin European supply chain,Steelcase,United States,Commercial & Professional Services,32.92,94.0,44.52,23.13,32.34
+17788-16-2016,2016,FrameOne Bench European supply chain,Steelcase,United States,Commercial & Professional Services,154.8,380.0,44.52,23.13,32.34
+17788-17-2016,2016,Fusion European supply chain,Steelcase,United States,Commercial & Professional Services,35.33,71.8,44.52,23.13,32.34
+17788-18-2016,2016,Gesture European supply chain,Steelcase,United States,Commercial & Professional Services,35.38,170.0,44.52,23.13,32.34
+17788-19-2016,2016,Gesture North American supply chain,Steelcase,United States,Commercial & Professional Services,35.38,180.0,44.52,23.13,32.34
+17788-20-2016,2016,Implicit European supply chain,Steelcase,United States,Commercial & Professional Services,35.3,98.0,44.52,23.13,32.34
+17788-21-2016,2016,Kalidro European supply chain,Steelcase,United States,Commercial & Professional Services,37.0,51.5,44.52,23.13,32.34
+17788-2-2013,2013,The Activa desks are highly ergonomic and offer different height adjustable versions in a single design Its modular construction allows very easy assembly and reconfiguration  The model chosen for analysis is the most frequently ordered one reference W6412700 from the Activa Telescopic range Standard features on this model include  Top dimensions 1600 mm x 800 mm  Melamine top Snow WY  Steel leg and frame Pearl Snow ZW  Telescopic height adjustment from 620 mm to 900 mm  Steel cable tray,Steelcase,United States,Commercial & Professional Services,44.71,160.0,44.52,23.13,32.34
+17788-2-2014,2014,Activa desk,Steelcase,United States,Commercial & Professional Services,44.71,160.0,44.52,23.13,32.34
+17788-22-2016,2016,Leap European supply chain,Steelcase,United States,Commercial & Professional Services,26.18,87.8,44.52,23.13,32.34
+17788-23-2016,2016,Lets B European supply chain,Steelcase,United States,Commercial & Professional Services,25.0,120.0,44.52,23.13,32.34
+17788-24-2016,2016,Movida European supply chain,Steelcase,United States,Commercial & Professional Services,38.34,39.6,44.52,23.13,32.34
+17788-25-2016,2016,New Think European supply chain,Steelcase,United States,Commercial & Professional Services,31.0,110.0,44.52,23.13,32.34
+17788-26-2016,2016,Ology European supply chain,Steelcase,United States,Commercial & Professional Services,40.9,95.0,44.52,23.13,32.34
+17788-27-2016,2016,Partito European supply chain,Steelcase,United States,Commercial & Professional Services,14.96,60.0,44.52,23.13,32.34
+20822-2-2014,2014,ColorQube 8900,Xerox Corporation,United States,Technology Hardware & Equipment,46.31,2445.0,1.6,27.72,70.69
+17788-28-2016,2016,Please European supply chain,Steelcase,United States,Commercial & Professional Services,23.62,90.9,44.52,23.13,32.34
+17788-29-2016,2016,Qivi European supply chain,Steelcase,United States,Commercial & Professional Services,5.17,56.0,44.52,23.13,32.34
+17788-30-2016,2016,Reply European supply chain,Steelcase,United States,Commercial & Professional Services,17.7,101.0,44.52,23.13,32.34
+17788-3-2013,2013,Share It is a modular storage system It offers personal storage team storage meeting point solutions and lockers  Share It can be also used as space dividers structuring workspaces  It is modular and offers endless planning possibilities  The range enhances collaboration providing communication platforms  It helps people concentrate thanks to acoustics absorbing surfaces  It offers wide range of finishes for different workplace ambiances,Steelcase,United States,Commercial & Professional Services,52.22,110.8,44.52,23.13,32.34
+17788-3-2014,2014,Share It modular storage system,Steelcase,United States,Commercial & Professional Services,52.22,110.8,44.52,23.13,32.34
+17788-32-2016,2016,Tenaro European supply chain,Steelcase,United States,Commercial & Professional Services,67.32,52.6,44.52,23.13,32.34
+17788-33-2016,2016,TNT European supply chain,Steelcase,United States,Commercial & Professional Services,47.33,49.7,44.52,23.13,32.34
+17788-34-2016,2016,Universal Storage EU European supply chain,Steelcase,United States,Commercial & Professional Services,69.78,103.8,44.52,23.13,32.34
+17788-36-2016,2016,Westside European supply chain,Steelcase,United States,Commercial & Professional Services,5.06,18.8,44.52,23.13,32.34
+17788-4-2013,2013,The model chosen for analysis is the most popular model Think work chair  It is a highly adjustable ergonomic chair equipped as follows 1 Your PowerTM weight activated mechanism 2 Your ProfileTM seat and back flexors  3 Your PreferenceTM control  4 Adjustable seat depth 5 Adjustable seat height 6 Adjustable lumbar support 7 Adjustable armrests 8 Plastic base,Steelcase,United States,Commercial & Professional Services,17.25,85.5,44.52,23.13,32.34
+17788-4-2014,2014,Think work chair,Steelcase,United States,Commercial & Professional Services,17.25,85.5,44.52,23.13,32.34
+17788-5-2016,2016,32 Seconds European supply chain,Steelcase,United States,Commercial & Professional Services,21.77,100.2,44.52,23.13,32.34
+17788-6-2016,2016,Activa European supply chain,Steelcase,United States,Commercial & Professional Services,44.71,160.0,44.52,23.13,32.34
+17788-7-2016,2016,Amia European supply chain,Steelcase,United States,Commercial & Professional Services,13.01,111.2,44.52,23.13,32.34
+17788-8-2016,2016,BFree big cube European supply chain,Steelcase,United States,Commercial & Professional Services,34.8,110.0,44.52,23.13,32.34
+17788-9-2016,2016,BFree Desk European supply chain,Steelcase,United States,Commercial & Professional Services,42.1,100.0,44.52,23.13,32.34
+18141-1-2015,2015,Fungicide,Syngenta AG,Switzerland,Chemicals,1.0,2.8,44.52,23.13,32.34
+18141-2-2015,2015,Herbicide,Syngenta AG,Switzerland,Chemicals,1.0,3.72,44.52,23.13,32.34
+18141-3-2015,2015,Insecticide,Syngenta AG,Switzerland,Chemicals,1.0,4.82,44.52,23.13,32.34
+18141-4-2015,2015,Seed treatment,Syngenta AG,Switzerland,Chemicals,1.0,1.02,44.52,23.13,32.34
+18288-1-2013,2013,Soda Ash for Unilever plc,Tata Chemicals,India,Materials,1000.0,1282.0,44.52,23.13,32.34
+18288-1-2014,2014,Soda Ash,Tata Chemicals,India,Materials,1000.0,1057.0,44.52,23.13,32.34
+18288-1-2015,2015,Soda Ash,Tata Chemicals,India,Chemicals,1000.0,1006.0,44.52,23.13,32.34
+18288-1-2017,2017,Soda Ash,Tata Chemicals,India,Materials,1000.0,870.0,44.52,23.13,32.34
+18288-2-2013,2013,Soda Ash for WalMart Stores Inc,Tata Chemicals,India,Materials,1000.0,701.0,44.52,23.13,32.34
+18288-3-2014,2014,Soda Ash from Tata Chemicals Europe,Tata Chemicals,India,Materials,1000.0,840.0,44.52,23.13,32.34
+18288-3-2015,2015,Soda Ash Tata Chemicals Europe,Tata Chemicals,India,Chemicals,1000.0,764.0,44.52,23.13,32.34
+18288-4-2015,2015,Soda Ash Tata Chemicals Magadi,Tata Chemicals,India,Chemicals,1000.0,504.0,44.52,23.13,32.34
+18288-5-2015,2015,Soda Ash Tata Chemicals North America,Tata Chemicals,India,Chemicals,1000.0,701.0,44.52,23.13,32.34
+18288-6-2015,2015,Soda Ash Tata Chemicals Mithapur India,Tata Chemicals,India,Chemicals,1000.0,1083.0,44.52,23.13,32.34
+18344-1-2014,2014,Hot Rolled Steel,Tata Steel,India,Materials,1000.0,2425.0,25.35,70.6,4.05
+18344-1-2015,2015,Hot Rolled Steel HR,Tata Steel,India,"Mining - Iron, Aluminum, Other Metals",1000.0,2615.0,23.36,65.05,11.59
+18344-2-2014,2014,Cold Rolled Steel,Tata Steel,India,Materials,1000.0,2549.0,25.35,70.6,4.05
+18344-2-2015,2015,Cold Rolled Steel CR,Tata Steel,India,"Mining - Iron, Aluminum, Other Metals",1000.0,2746.0,23.35,65.04,11.61
+18344-3-2014,2014,Galvanised Steel,Tata Steel,India,Materials,1000.0,2611.0,25.35,70.59,4.06
+18344-3-2015,2015,Galvanized Steel Galv,Tata Steel,India,"Mining - Iron, Aluminum, Other Metals",1000.0,2820.0,23.36,65.06,11.58
+18585-1-2013,2013,Tetra Brik Aseptic Slim 200ml,TETRA PAK,Sweden,Materials,0.01,0.017,88.24,11.76,0.0
+18585-1-2014,2014,Tetra Brik Aseptic Slim 200ml,TETRA PAK,Sweden,Materials,0.01,0.017,88.24,11.76,0.0
+18585-1-2015,2015,Tetra Brik Aseptic Slim 200ml,TETRA PAK,Sweden,Containers & Packaging,0.01,0.017,88.24,11.76,0.0
+18585-1-2016,2016,Tetra Brik Aseptic Slim 200ml,TETRA PAK,Sweden,Materials,0.01,0.016,81.25,18.75,0.0
+18585-2-2013,2013,Tetra Brik Aseptic Slim 250ml,TETRA PAK,Sweden,Materials,0.01,0.018,88.89,11.11,0.0
+18585-2-2014,2014,Tetra Brik Aseptic Slim 250ml,TETRA PAK,Sweden,Materials,0.01,0.018,88.89,11.11,0.0
+18585-2-2015,2015,Tetra Brik Aseptic Slim 250ml,TETRA PAK,Sweden,Containers & Packaging,0.01,0.018,88.89,11.11,0.0
+18585-2-2016,2016,Tetra Brik Aseptic Slim 250ml,TETRA PAK,Sweden,Materials,0.01,0.018,83.33,16.67,0.0
+18585-3-2013,2013,Tetra Brik Aseptic Base 250ml,TETRA PAK,Sweden,Materials,0.01,0.018,88.89,11.11,0.0
+18585-3-2014,2014,Tetra Brik Aseptic Base 250ml,TETRA PAK,Sweden,Materials,0.01,0.018,88.89,11.11,0.0
+18585-3-2015,2015,Tetra Brik Aseptic Base 250ml,TETRA PAK,Sweden,Containers & Packaging,0.01,0.018,88.89,11.11,0.0
+18585-3-2016,2016,Tetra Brik Aseptic Base 250ml,TETRA PAK,Sweden,Materials,0.01,0.017,82.35,17.65,0.0
+18585-4-2013,2013,Tetra Brik Aseptic Base 1000ml,TETRA PAK,Sweden,Materials,0.03,0.046,86.96,13.04,0.0
+18585-4-2014,2014,Tetra Brik Aseptic Base 1000ml,TETRA PAK,Sweden,Materials,0.03,0.046,86.96,13.04,0.0
+18585-4-2015,2015,Tetra Brik Aseptic Base 1000ml,TETRA PAK,Sweden,Containers & Packaging,0.03,0.046,86.96,13.04,0.0
+18585-4-2016,2016,Tetra Brik Aseptic Base 1000ml,TETRA PAK,Sweden,Materials,0.03,0.042,83.33,16.67,0.0
+1884-1-2013,2013,Bloombergs standardissue flat panel configuration prior to 2010 was two 19 panels mounted on a metal stand In early 2010 Bloomberg engaged in the WRI Product Life Cycle Roadtest for this functional unit cradletograve The functional unit has a lifespan of 5 years so the emissions indicated in this report are the full emissions associated with that lifespan,Bloomberg,United States,Media,14.6,9438.0,64.62,0.57,34.81
+1884-1-2014,2014,BloombergProvided Flat Panel Unit,Bloomberg,United States,Media,14.6,9438.0,64.62,0.57,34.81
+1884-1-2015,2015,BloombergProvided Flat Panel Unit,Bloomberg,United States,Media,14.6,1766.0,19.53,1.02,79.46
+1884-1-2016,2016,BloombergProvided Flat Panel Unit,Bloomberg,United States,Media,14.6,1766.0,19.53,1.02,79.46
+1884-2-2013,2013,Bloombergs standard keyboard which is optional hardware available for lease to all Bloomberg Terminal customers  The functional unit has a lifespan of 3 years so the emissions indicated in this report are the full emissions associated with that lifespan,Bloomberg,United States,Media,1.08,93.68,33.96,11.12,54.92
+1884-2-2014,2014,BloombergProvided Keyboard,Bloomberg,United States,Media,1.08,93.68,33.96,11.12,54.92
+1884-2-2015,2015,BloombergProvided Keyboard,Bloomberg,United States,Media,1.08,40.0,56.43,4.31,39.26
+1884-2-2016,2016,BloombergProvided Keyboard,Bloomberg,United States,Media,1.08,40.0,56.43,4.31,39.26
+1884-3-2013,2013,Bloombergs biometric device BUnit distributed to all Bloomberg Terminal customers  The functional unit has a lifespan of 3 years so the emissions indicated in this report are the full emissions associated with that lifespan,Bloomberg,United States,Media,0.03,2.18,84.33,6.91,8.76
+1884-3-2014,2014,Bloomberg BUnit,Bloomberg,United States,Media,0.03,2.18,84.33,6.91,8.76
+1884-3-2015,2015,Bloomberg BUnit,Bloomberg,United States,Media,0.03,2.0,78.39,15.58,6.03
+1884-3-2016,2016,Bloomberg BUnit,Bloomberg,United States,Media,0.03,2.0,78.39,15.58,6.03
+19100-1-2013,2013,TG582n Home Gateway to provide multiple play telecom data services data voice TV in the home,Technicolor SA,France,Media,0.6,111.0,4.19,1.6,94.21
+19100-1-2014,2014,Home Gateway TG582n,Technicolor SA,France,Media,0.6,111.0,4.19,1.6,94.21
+19100-1-2015,2015,Home Gateway TG582n,Technicolor SA,France,Media,0.6,111.0,4.19,1.6,94.21
+19238-3-2017,2017,GL film packages,"Toppan Printing Co., Ltd.",Japan,Commercial & Professional Services,13.44,377.6,70.15,27.65,2.2
+19238-4-2017,2017,MRPET film package,"Toppan Printing Co., Ltd.",Japan,Commercial & Professional Services,13.44,363.0,68.94,31.06,0.0
+19429-1-2016,2016,Agricultural tires BlueTire Yechnology,Trelleborg AB,Sweden,Capital Goods,370.69,1408.62,63.92,32.99,3.09
+20033-1-2013,2013,Polyethylene pipe,Radius Systems,United Kingdom,Capital Goods,1.0,2.52,91.39,7.94,0.67
+20309-1-2013,2013,VW Polo V 16 TDI BlueMotion Technology,Volkswagen AG,Germany,Automobiles & Components,993.0,21725.0,18.63,5.75,75.62
+20309-1-2014,2014,VW Polo,Volkswagen AG,Germany,Automobiles & Components,993.0,21725.0,44.52,23.13,32.34
+20309-1-2015,2015,Volkswagen Polo,Volkswagen AG,Germany,Automobiles & Components,993.0,21725.0,44.52,23.13,32.34
+20309-1-2016,2016,Volkswagen Polo,Volkswagen AG,Germany,Automobiles & Components,993.0,21725.0,44.52,23.13,32.34
+20309-2-2013,2013,VW Golf VII 16 TDI BlueMotion Technology,Volkswagen AG,Germany,Automobiles & Components,1358.06,22218.0,19.52,6.02,74.46
+20309-2-2014,2014,VW Golf,Volkswagen AG,Germany,Automobiles & Components,1394.34,22218.0,44.52,23.13,32.34
+20309-2-2015,2015,Volkswagen Golf,Volkswagen AG,Germany,Automobiles & Components,1394.34,22218.0,44.52,23.13,32.34
+20309-2-2016,2016,Volkswagen Golf,Volkswagen AG,Germany,Automobiles & Components,1358.06,22218.0,44.52,23.13,32.34
+20309-3-2013,2013,Passat B7 20 TDI BlueMotion Technology,Volkswagen AG,Germany,Automobiles & Components,1539.04,28011.0,20.54,6.33,73.12
+20309-3-2014,2014,VW Passat,Volkswagen AG,Germany,Automobiles & Components,1539.04,28011.0,44.52,23.13,32.34
+20309-3-2015,2015,Volkswagen Passat,Volkswagen AG,Germany,Automobiles & Components,1539.04,28011.0,44.52,23.13,32.34
+20309-3-2016,2016,Volkswagen Passat,Volkswagen AG,Germany,Automobiles & Components,1539.04,28011.0,44.52,23.13,32.34
+20309-4-2013,2013,Audi A3 20 TDI,Volkswagen AG,Germany,Automobiles & Components,1460.11,30647.0,15.68,4.84,79.48
+20309-5-2014,2014,Mean value for a vehicle within the Volkswagen Group according to CDP Report 2013 global scope,Volkswagen AG,Germany,Automobiles & Components,1539.04,34694.0,44.52,23.13,32.34
+20309-5-2015,2015,Mean value for a vehicle within the Volkswagen Group according to CDP Report 2014 global scope,Volkswagen AG,Germany,Automobiles & Components,1539.04,33683.0,44.52,23.13,32.34
+20309-6-2014,2014,VW up,Volkswagen AG,Germany,Automobiles & Components,929.86,21488.0,44.52,23.13,32.34
+20309-6-2015,2015,Volkswagen up,Volkswagen AG,Germany,Automobiles & Components,929.86,21488.0,44.52,23.13,32.34
+20309-6-2016,2016,Volkswagen up,Volkswagen AG,Germany,Automobiles & Components,929.86,21488.0,44.52,23.13,32.34
+20309-7-2014,2014,Audi A6,Volkswagen AG,Germany,Automobiles & Components,1895.11,37094.0,44.52,23.13,32.34
+20309-7-2015,2015,Audi A6,Volkswagen AG,Germany,Automobiles & Components,1895.11,37094.0,44.52,23.13,32.34
+20309-7-2016,2016,Audi A6,Volkswagen AG,Germany,Automobiles & Components,1895.11,37094.0,44.52,23.13,32.34
+20309-8-2014,2014,VW Caddy,Volkswagen AG,Germany,Automobiles & Components,1128.0,28608.0,44.52,23.13,32.34
+20309-8-2015,2015,Volkswagen Caddy,Volkswagen AG,Germany,Automobiles & Components,1128.0,28608.0,44.52,23.13,32.34
+20309-8-2016,2016,Volkswagen Caddy,Volkswagen AG,Germany,Automobiles & Components,1128.0,28608.0,44.52,23.13,32.34
+20309-9-2016,2016,Volkswagen eup,Volkswagen AG,Germany,Automobiles & Components,1185.0,7550.0,44.52,23.13,32.34
+20523-1-2013,2013,Alliance HPLC High Peformance Liquid Chromatography  The Alliance is an HPLC that is unique in that it has a single set of electronic boards that control the functions for both the solvent delivery system and the autosampler in the liquid chromatograph,Waters Corporation,United States,"Pharmaceuticals, Biotechnology & Life Sciences",59.0,15196.6,2.95,0.64,96.41
+20523-1-2014,2014,Alliance HPLC,Waters Corporation,United States,"Pharmaceuticals, Biotechnology & Life Sciences",59.0,40215.0,1.41,0.3,98.28
+20523-2-2013,2013,ACQUITY UPLC ACQUITY IClass ACQUITY HClass,Waters Corporation,United States,"Pharmaceuticals, Biotechnology & Life Sciences",25.9,17074.4,4.07,0.88,95.05
+20527-1-2013,2013,Electric Motor,Weg S/A,Brazil,Capital Goods,90.0,53057.5,0.01,0.0,99.99
+20527-1-2014,2014,Electric Motor,Weg S/A,Brazil,Capital Goods,90.0,87589.36467,0.02,0.0,99.98
+20527-1-2015,2015,Electric Motor,Weg S/A,Brazil,Electrical Equipment and Machinery,90.0,20007.62,0.1,0.02,99.88
+20822-1-2013,2013,Phaser 6600,Xerox Corporation,United States,Technology Hardware & Equipment,25.5,584.0,3.6,67.29,29.11
+20822-1-2014,2014,Phaser 6600,Xerox Corporation,United States,Technology Hardware & Equipment,25.5,584.0,3.6,67.29,29.11
+20822-1-2015,2015,Phaser 6600,Xerox Corporation,United States,Software & Services,25.5,584.0,3.6,67.29,29.11
+20822-1-2016,2016,Phaser 6600,Xerox Corporation,United States,Software & Services,25.5,584.0,3.6,67.29,29.11
+20822-2-2013,2013,ColorQube 8900,Xerox Corporation,United States,Technology Hardware & Equipment,46.31,2445.0,1.6,27.72,70.69
+20822-2-2015,2015,ColorQube 8900,Xerox Corporation,United States,Software & Services,46.31,2445.0,1.6,27.72,70.69
+20822-2-2016,2016,ColorQube 8900,Xerox Corporation,United States,Software & Services,46.31,2445.0,1.6,27.72,70.69
+20822-3-2013,2013,ColorQube 9200,Xerox Corporation,United States,Technology Hardware & Equipment,368.8,7090.0,1.26,32.44,66.29
+20822-3-2014,2014,ColorQube 9200,Xerox Corporation,United States,Technology Hardware & Equipment,368.8,7090.0,1.27,32.57,66.16
+20822-3-2015,2015,ColorQube 9200,Xerox Corporation,United States,Software & Services,368.8,7090.0,1.27,32.57,66.16
+20822-3-2016,2016,ColorQube 9200,Xerox Corporation,United States,Software & Services,368.8,7090.0,1.27,32.57,66.16
+20822-4-2013,2013,ColorQube 8870,Xerox Corporation,United States,Technology Hardware & Equipment,34.02,2110.0,44.52,23.13,32.34
+20822-4-2014,2014,ColorQube 8870,Xerox Corporation,United States,Technology Hardware & Equipment,34.02,2011.0,3.88,9.1,87.02
+20822-4-2015,2015,ColorQube 8870,Xerox Corporation,United States,Software & Services,34.02,2011.0,3.88,9.1,87.02
+20822-4-2016,2016,ColorQube 8870,Xerox Corporation,United States,Software & Services,34.02,2011.0,3.88,9.1,87.02
+20822-5-2014,2014,Phaser 7100,Xerox Corporation,United States,Technology Hardware & Equipment,44.0,2000.0,13.31,2.12,84.57
+20822-5-2015,2015,Phaser 7100,Xerox Corporation,United States,Software & Services,44.0,2000.0,13.31,2.12,84.57
+20822-5-2016,2016,Phaser 7100,Xerox Corporation,United States,Software & Services,44.0,2000.0,13.31,2.12,84.57
+20822-6-2015,2015,WorkCentre 59455955,Xerox Corporation,United States,Software & Services,158.5,4216.0,64.27,0.0,35.73
+20822-6-2016,2016,WorkCentre 59455955,Xerox Corporation,United States,Software & Services,158.5,4216.0,64.29,0.0,35.71
+20822-7-2015,2015,WorkCentre 5325,Xerox Corporation,United States,Software & Services,137.2,1300.0,47.58,2.61,49.81
+20822-7-2016,2016,WorkCentre 5325,Xerox Corporation,United States,Software & Services,137.2,1300.0,47.58,2.61,49.81
+20822-8-2015,2015,WorkCentre 5330,Xerox Corporation,United States,Software & Services,137.2,1500.0,41.53,2.28,56.2
+20822-8-2016,2016,WorkCentre 5330,Xerox Corporation,United States,Software & Services,137.2,1500.0,41.53,2.28,56.2
+20822-9-2015,2015,WorkCentre 5335,Xerox Corporation,United States,Software & Services,137.2,1700.0,37.51,2.06,60.44
+20822-9-2016,2016,WorkCentre 5335,Xerox Corporation,United States,Software & Services,137.2,1700.0,37.51,2.06,60.44
+20871-1-2015,2015,Pressure transmitter  GTX,Azbil Corporation,Japan,Technology Hardware & Equipment,3.6,42.2,54.23,20.36,25.41
+20871-2-2015,2015,Photoelectric sensor,Azbil Corporation,Japan,Technology Hardware & Equipment,0.11,13.8,1.7,0.13,98.17
+20871-5-2015,2015,Neosensor indoor temperature sensor,Azbil Corporation,Japan,Technology Hardware & Equipment,0.11,2.5,96.0,2.8,1.2
+20871-6-2015,2015,Temperature sensor for duct,Azbil Corporation,Japan,Technology Hardware & Equipment,0.24,8.3,99.81,0.0,0.19
+20947-1-2014,2014,1 fuelefficient tire for passenger cars,"Yokohama Rubber Company, Limited",Japan,Automobiles & Components,8.7,256.5,9.36,2.73,87.91
+20947-1-2015,2015,1 fuelefficient tire for passenger cars,"Yokohama Rubber Company, Limited",Japan,Tires,8.7,287.68,13.77,4.0,82.24
+20947-2-2014,2014,1 fuelefficient truck and buss tire,"Yokohama Rubber Company, Limited",Japan,Automobiles & Components,160.0,1881.0,44.52,23.13,32.34
+20947-2-2015,2015,1 fuelefficient truck and buss tire,"Yokohama Rubber Company, Limited",Japan,Tires,160.0,1734.0,44.52,23.13,32.34
+2116-1-2015,2015,CHEP wooden exchange pooled pallet in USA 48x40,Brambles,Australia,Trading Companies & Distributors and Commercial Services & Supplies,31.8,40.79,44.52,23.13,32.34
+2116-2-2015,2015,CHEP wooden exchange pooled pallet in Canada 48x40,Brambles,Australia,Trading Companies & Distributors and Commercial Services & Supplies,31.8,35.16,44.52,23.13,32.34
+2116-3-2015,2015,Foldable reusable plastic crates RPCs in Australia,Brambles,Australia,Trading Companies & Distributors and Commercial Services & Supplies,2.5,20.04,44.52,23.13,32.34
+2116-5-2015,2015,CHEP wooden exchange pooled pallet in Canada 48x20,Brambles,Australia,Trading Companies & Distributors and Commercial Services & Supplies,15.9,18.76,44.52,23.13,32.34
+2116-6-2015,2015,IFCO reusable plastic crates RPCs in North America,Brambles,Australia,Trading Companies & Distributors and Commercial Services & Supplies,2.41,89.567,44.52,23.13,32.34
+2116-8-2015,2015,Rigid side reusable plastic crates RPCs in Australia,Brambles,Australia,Trading Companies & Distributors and Commercial Services & Supplies,2.41,34.15,44.52,23.13,32.34
+2135-1-2013,2013,The Polyethylene PE molecular formula CH2n is currently the worlds main plastic material Its properties depend on the shape of the polyethylene  given that the ones of low density are more flexible while the high density polyethylenes are more rigid This material is produced from the polymerization of the monomer ethylene Despite the differences between the types of polyethylene produced by Braskem this assessment was targeted at finding an average value of emissions for all of the resins produced The figure provide in column Total emissions in kg CO2e per unit has the dimension of tCO2e ton product,Braskem S/A,Brazil,Materials,1.0,1.32,82.4,17.6,0.0
+2135-1-2014,2014,Polyethylene,Braskem S/A,Brazil,Materials,1.0,1.32,44.52,23.13,32.34
+2135-1-2015,2015,Polyethylene,Braskem S/A,Brazil,Chemicals,1.0,1.32,44.52,23.13,32.34
+2135-1-2016,2016,Polyethylene,Braskem S/A,Brazil,Materials,1000.0,1320.0,44.52,23.13,32.34
+2135-2-2013,2013,Polypropylene PP or Polypropene which has the molecular formula of CH CH3  CH2n is a resin produced from the polymerization of monomer Propene its main feedstock It may also be produced from a mixture of two types of monomers ethylene and propylene producing the PP Copolymer This is the carbon footprint for the Polypropylene produced in Brazil The figure provide in column Total emissions in kg CO2e per unit has the dimension of tCO2e ton product,Braskem S/A,Brazil,Materials,1.0,1.33,81.69,18.31,0.0
+2135-2-2014,2014,Polypropylene,Braskem S/A,Brazil,Materials,1.0,1.33,44.52,23.13,32.34
+2135-2-2015,2015,Polypropylene,Braskem S/A,Brazil,Chemicals,1.0,1.33,44.52,23.13,32.34
+2135-2-2016,2016,Polypropylene,Braskem S/A,Brazil,Materials,1000.0,1330.0,44.52,23.13,32.34
+2135-3-2013,2013,The Polyvinyl Chloride PVC CH2CHCln is the oldest plastic material This material is produced from the polymerization of the monomer MVC Braskem has a chlorine production unit base material which shall be used for the production of DCE 12dichloroethane from the mixture of chloride and ethylene Afterwards the DCE reacts to form MVC the monomer for the polymerization process The figure provide in column Total emissions in kg CO2e per unit has the dimension of tCO2e ton product,Braskem S/A,Brazil,Materials,1.0,1.77,44.07,13.56,42.37
+2135-3-2014,2014,Polyvinyl Chloride,Braskem S/A,Brazil,Materials,1.0,1.77,44.52,23.13,32.34
+2135-3-2015,2015,Polyvinyl Chloride,Braskem S/A,Brazil,Chemicals,1.0,1.77,44.52,23.13,32.34
+2135-3-2016,2016,Polyvinyl Chloride,Braskem S/A,Brazil,Materials,1000.0,1770.0,44.52,23.13,32.34
+21394-1-2013,2013,Acer 156 Notebook,Wistron Corp,Taiwan,Technology Hardware & Equipment,2.36,8.8,44.52,23.13,32.34
+21477-10-2015,2015,LCD PC,Quanta Computer,Taiwan,Technology Hardware & Equipment,1000.0,1600.0,44.52,23.13,32.34
+21477-11-2015,2015,PND,Quanta Computer,Taiwan,Technology Hardware & Equipment,1000.0,10202.0,44.52,23.13,32.34
+21477-1-2015,2015,Note book,Quanta Computer,Taiwan,Technology Hardware & Equipment,1000.0,1330.0,44.52,23.13,32.34
+21477-12-2015,2015,Auto,Quanta Computer,Taiwan,Technology Hardware & Equipment,1000.0,10202.0,44.52,23.13,32.34
+21477-13-2015,2015,Watch,Quanta Computer,Taiwan,Technology Hardware & Equipment,1000.0,10202.0,44.52,23.13,32.34
+21477-14-2015,2015,Camera,Quanta Computer,Taiwan,Technology Hardware & Equipment,1000.0,10202.0,44.52,23.13,32.34
+21477-14-2016,2016,Camera,Quanta Computer,Taiwan,Technology Hardware & Equipment,0.25,5.3,44.52,23.13,32.34
+21477-15-2016,2016,AIO,Quanta Computer,Taiwan,Technology Hardware & Equipment,8.05,5.4,44.52,23.13,32.34
+21477-16-2016,2016,AIO,Quanta Computer,Taiwan,Technology Hardware & Equipment,8.05,5.3,44.52,23.13,32.34
+21477-17-2016,2016,Notebook,Quanta Computer,Taiwan,Technology Hardware & Equipment,2.95,5.4,44.52,23.13,32.34
+21477-20-2016,2016,Server,Quanta Computer,Taiwan,Technology Hardware & Equipment,19.97,2.4,44.52,23.13,32.34
+21477-21-2016,2016,Tablet,Quanta Computer,Taiwan,Technology Hardware & Equipment,0.35,5.3,44.52,23.13,32.34
+21477-2-2015,2015,Servers,Quanta Computer,Taiwan,Technology Hardware & Equipment,1000.0,3248.0,44.52,23.13,32.34
+21477-22-2016,2016,VR,Quanta Computer,Taiwan,Technology Hardware & Equipment,0.35,3.6,44.52,23.13,32.34
+21477-3-2015,2015,DT,Quanta Computer,Taiwan,Technology Hardware & Equipment,1000.0,1600.0,44.52,23.13,32.34
+21477-4-2015,2015,Phone,Quanta Computer,Taiwan,Technology Hardware & Equipment,1000.0,1600.0,44.52,23.13,32.34
+21477-5-2015,2015,Pad,Quanta Computer,Taiwan,Technology Hardware & Equipment,1000.0,1600.0,44.52,23.13,32.34
+21477-6-2015,2015,CHROMEBOX,Quanta Computer,Taiwan,Technology Hardware & Equipment,1000.0,1600.0,44.52,23.13,32.34
+21477-7-2015,2015,Lamp,Quanta Computer,Taiwan,Technology Hardware & Equipment,1000.0,1600.0,44.52,23.13,32.34
+21477-8-2015,2015,POS,Quanta Computer,Taiwan,Technology Hardware & Equipment,1000.0,1600.0,44.52,23.13,32.34
+21477-9-2015,2015,Speaker,Quanta Computer,Taiwan,Technology Hardware & Equipment,1000.0,1600.0,44.52,23.13,32.34
+2156-1-2016,2016,Tire including low fuel consumption tire eg ECOPIA series,Bridgestone Corporation,Japan,Automobiles & Components,9.07,118.0,9.19,3.88,86.93
+21673-1-2014,2014,Air Purifier,Coway Co Ltd,South Korea,Consumer Durables & Apparel,7.2,126.0,26.58,0.79,72.63
+21889-1-2013,2013,Folding boxboard produced at the Maule and Valdivia mills,Empresas CMPC,Chile,Materials,1000.0,549.2,44.52,23.13,32.34
+21889-1-2014,2014,Folding boxboard,Empresas CMPC,Chile,Materials,1000.0,554.94,26.42,73.58,0.0
+21889-1-2015,2015,Folding boxboard,Empresas CMPC,Chile,"Forest and Paper Products - Forestry, Timber, Pulp and Paper, Rubber",1000.0,451.46,26.42,73.58,0.0
+22295-10-2015,2015,Tako CX Lite,Metsä Board,Finland,"Forest and Paper Products - Forestry, Timber, Pulp and Paper, Rubber",1000.0,918.0,11.0,83.55,5.45
+22295-11-2015,2015,Tako CX Lite S,Metsä Board,Finland,"Forest and Paper Products - Forestry, Timber, Pulp and Paper, Rubber",1000.0,918.0,11.0,83.55,5.45
+22295-1-2013,2013,Simcote is a fully coated folding boxboard with a washed groundwood middle layer based on 100  fresh forest fibres Typical enduses are food and general packaging,Metsä Board,Finland,Materials,1000.0,597.0,21.27,71.19,7.54
+22295-1-2015,2015,Simcote,Metsä Board,Finland,"Forest and Paper Products - Forestry, Timber, Pulp and Paper, Rubber",1000.0,782.0,15.73,78.01,6.27
+22295-12-2015,2015,Tako CX Lite S2,Metsä Board,Finland,"Forest and Paper Products - Forestry, Timber, Pulp and Paper, Rubber",1000.0,918.0,11.0,83.55,5.45
+22295-13-2015,2015,Tako CX Lite OBA,Metsä Board,Finland,"Forest and Paper Products - Forestry, Timber, Pulp and Paper, Rubber",1000.0,918.0,11.0,83.55,5.45
+22295-14-2015,2015,Tako CX White S,Metsä Board,Finland,"Forest and Paper Products - Forestry, Timber, Pulp and Paper, Rubber",1000.0,900.0,11.22,83.22,5.56
+22295-15-2016,2016,Mets Board Classic FBB Simcote,Metsä Board,Finland,Materials,1000.0,807.0,44.52,23.13,32.34
+22295-16-2016,2016,Mets Board Classic FBB CX Tako Lite CX,Metsä Board,Finland,Materials,1000.0,767.0,25.03,74.97,0.0
+22295-17-2016,2016,Mets Board Natural FSB Cup  new product,Metsä Board,Finland,Materials,1000.0,369.0,48.51,51.49,0.0
+22295-18-2016,2016,Mets Board Prime FBB Carta Elega,Metsä Board,Finland,Materials,1000.0,804.0,22.87,77.13,0.0
+22295-19-2016,2016,Mets Board Prime FBB Bright Carta Integra,Metsä Board,Finland,Materials,1000.0,534.0,36.7,63.3,0.0
+22295-20-2016,2016,Mets Board Prime FBB CX Tako CX White S,Metsä Board,Finland,Materials,1000.0,767.0,28.07,71.93,0.0
+22295-21-2016,2016,Mets Board Prime FBB CXB Carta Allura,Metsä Board,Finland,Materials,1000.0,766.0,27.32,72.68,0.0
+22295-2-2013,2013,Carta Elega is a fully coated folding boxboard GC1 based on 100  fresh forest fibres Typical end uses are cosmetics and other luxury packagings and graphical applications,Metsä Board,Finland,Materials,1000.0,482.0,26.35,62.45,11.2
+22295-2-2015,2015,Carta Elega,Metsä Board,Finland,"Forest and Paper Products - Forestry, Timber, Pulp and Paper, Rubber",1000.0,804.0,15.55,77.11,7.34
+22295-22-2016,2016,Mets Board Prime FBB CXL Tako HiD L JTI,Metsä Board,Finland,Materials,1000.0,767.0,44.52,23.13,32.34
+22295-23-2016,2016,Mets Board Prime FBB CXX Tako HiD X JTI,Metsä Board,Finland,Materials,1000.0,767.0,28.07,71.93,0.0
+22295-24-2016,2016,Mets Board Pro FBB Avanta Prima,Metsä Board,Finland,Materials,1000.0,811.0,21.21,78.79,0.0
+22295-25-2016,2016,Mets Board Pro FBB Bright Carta Solida,Metsä Board,Finland,Materials,1000.0,534.0,36.7,63.3,0.0
+22295-26-2016,2016,MetsBoard Pro FBB CX Tako CX Lite S,Metsä Board,Finland,Materials,1000.0,776.0,25.9,74.1,0.0
+22295-3-2013,2013,Avanta Prima is a fully coated folding boxboard GC2 based on 100  fresh forest fibress Typical end uses are highquality pharmaceuticals daily cosmetics and food packagings,Metsä Board,Finland,Materials,1000.0,478.0,24.43,64.3,11.27
+22295-3-2015,2015,Avanta Prima,Metsä Board,Finland,"Forest and Paper Products - Forestry, Timber, Pulp and Paper, Rubber",1000.0,811.0,14.06,78.42,7.52
+22295-4-2013,2013,Carta Solida is a fully coated BCTMP board with a white back based on 100  fresh forest fibres Carta Solida is suitable for packaging and graphical end uses and it is available in reels and sheets,Metsä Board,Finland,Materials,1000.0,359.0,42.34,44.01,13.65
+22295-4-2015,2015,Carta Solida,Metsä Board,Finland,"Forest and Paper Products - Forestry, Timber, Pulp and Paper, Rubber",1000.0,534.0,27.53,63.3,9.18
+22295-5-2013,2013,Carta Integra is a fully coated BCTMP board with a coated back  based on 100  fresh forest fibres Carta Integra is suitable for graphical and packaging end uses and it is available in reels and sheets,Metsä Board,Finland,Materials,1000.0,359.0,42.34,44.01,13.65
+22295-5-2015,2015,Carta Integra,Metsä Board,Finland,"Forest and Paper Products - Forestry, Timber, Pulp and Paper, Rubber",1000.0,534.0,27.53,63.3,9.18
+22295-6-2013,2013,Kemiart Brite is a tradional white top kraftliner for retail packages with large colourprinted areas and line pictures with excellent contrast based on 100  fresh forest fibres It is used for corrugated packaging,Metsä Board,Finland,Materials,1000.0,398.0,37.69,47.74,14.57
+22295-7-2013,2013,Batabak 515 is a fully coated bleached paperboard with uncoated back based on 100  fresh forest fibres Typical end use is cigarette packaging,Metsä Board,Finland,Materials,1000.0,781.0,17.16,76.31,6.53
+22295-8-2013,2013,Batabak 580 is a fully coated bleached paperboard with  a coated back based on 100  fresh forest fibres Typical end use is cigarette packaging,Metsä Board,Finland,Materials,1000.0,792.0,18.71,74.84,6.45
+22295-9-2013,2013,Batabak 510 is a fully coated bleached paperboard with uncoated back based on 100  fresh forest fibres Typical end use is cigarette packaging,Metsä Board,Finland,Materials,1000.0,781.0,17.16,76.31,6.53
+22322-1-2014,2014,Glass container,Owens-Illinois,United States,Materials,0.42,0.153,44.52,23.13,32.34
+22322-2-2014,2014,Glass container,Owens-Illinois,United States,Materials,0.42,0.11,44.52,23.13,32.34
+22322-3-2014,2014,Glass container,Owens-Illinois,United States,Materials,0.42,0.117,44.52,23.13,32.34
+22322-4-2014,2014,Glass container,Owens-Illinois,United States,Materials,0.42,0.171,44.52,23.13,32.34
+22379-1-2014,2014,BillerudKorsns Liquid LC,BillerudKorsnäs,Sweden,Materials,1000.0,407.0,69.4,9.7,20.9
+22379-1-2015,2015,BillerudKorsns Liquid LC,BillerudKorsnäs,Sweden,Containers & Packaging,1000.0,407.0,69.4,9.7,20.9
+22645-1-2013,2013,TFTLCD products is the use of the optical properties of liquid crystals to achieve the image display liquid crystal main structure is poured into the vacuum between the two pieces of glass glass applied voltage and control the proper spacing of the deflection characteristics of the incident light can be changed to to image display For the automobile productss TFTLCD Module the product is defined as B to B Business to Business products ranging from the cradle to the door inventory according to standard PCR system boundaries should be compulsory included in carbon footprint assessment phase are as follows   Mining and raw materials made   Manufacture of major components   Transport components   Product assembly stage The models 069LA of automobile panel was complete the dual certification of carbon footprint and water footprint  by SGS in 2011,Chunghwa Picture Tubes Ltd,Taiwan,Technology Hardware & Equipment,0.28,12.0,57.0,32.0,11.0
+22710-1-2014,2014,CocaCola all packaging and sizes,Coca-Cola HBC AG,Switzerland,"Food, Beverage & Tobacco",1.09,0.1673,84.28,11.12,4.6
+22710-1-2015,2015,CocaCola all packaging and sizes,Coca-Cola HBC AG,Switzerland,Food & Beverage Processing,1.09,0.158,38.37,12.71,48.93
+22710-1-2016,2016,CocaCola all packaging and sizes,Coca-Cola HBC AG,Switzerland,"Food, Beverage & Tobacco",1.09,0.147,42.17,10.98,46.85
+22917-2-2015,2015,Wind Turbine G90 2 Megawats,"Gamesa Corporación Tecnológica, S.A.",Spain,Electrical Equipment and Machinery,361000.0,1251625.0,44.52,23.13,32.34
+22917-3-2015,2015,Wind Turbine G114 2 Megawats,"Gamesa Corporación Tecnológica, S.A.",Spain,Electrical Equipment and Machinery,400000.0,1532608.0,44.52,23.13,32.34
+22917-4-2015,2015,Wind Turbine G128 5 Megawats,"Gamesa Corporación Tecnológica, S.A.",Spain,Electrical Equipment and Machinery,600000.0,3718044.0,44.52,23.13,32.34
+22917-5-2015,2015,Wind Turbine G132 5 Megawats,"Gamesa Corporación Tecnológica, S.A.",Spain,Electrical Equipment and Machinery,600000.0,3276187.0,44.52,23.13,32.34
+23195-10-2013,2013,HP EliteDisplay E201 20inch LED Backlit Monitor,Hewlett-Packard,United States,Technology Hardware & Equipment,7.1,300.0,0.83,46.9,52.28
+23195-11-2013,2013,HP Compaq LA2206xc 215inch Webcam Monitor,Hewlett-Packard,United States,Technology Hardware & Equipment,8.3,380.0,0.86,43.06,56.08
+23195-1-2013,2013,HP LaserJet Enterprise M4555fskm MFP note that this product is representative of 61 similar products for which full LCAs were performed,Hewlett-Packard,United States,Technology Hardware & Equipment,52.5,16100.0,44.52,23.13,32.34
+23195-12-2013,2013,HP Compaq LA2405x 24inch LED Backlit Monitor,Hewlett-Packard,United States,Technology Hardware & Equipment,10.1,460.0,1.04,38.32,60.63
+23195-2-2013,2013,HP Envy 120 InkJet Printer,Hewlett-Packard,United States,Technology Hardware & Equipment,7.2,231.4,44.52,23.13,32.34
+23195-3-2013,2013,HP ScanJet 7500 note that this product is representative of 5 similar products for which full LCAs were performed,Hewlett-Packard,United States,Technology Hardware & Equipment,10.61,262.1,34.5,13.16,52.35
+23195-4-2013,2013,HP Compaq Elite 8300 USDT PC,Hewlett-Packard,United States,Technology Hardware & Equipment,3.1,420.0,0.52,36.38,63.1
+23195-5-2013,2013,HP Compaq 8200 Elite SFF Business PC,Hewlett-Packard,United States,Technology Hardware & Equipment,7.6,500.0,0.77,33.23,66.0
+23195-6-2013,2013,HP Compaq Elite 8300 MT PC,Hewlett-Packard,United States,Technology Hardware & Equipment,11.2,580.0,0.75,26.92,72.33
+23195-7-2013,2013,HP EliteBook Folio 9470m,Hewlett-Packard,United States,Technology Hardware & Equipment,1.61,230.0,0.47,76.66,22.87
+23195-8-2013,2013,HP EliteBook 8460p Notebook PC,Hewlett-Packard,United States,Technology Hardware & Equipment,2.25,290.0,0.59,62.52,36.89
+23195-9-2013,2013,HP EliteBook 8570w Mobile Workstation,Hewlett-Packard,United States,Technology Hardware & Equipment,3.0,370.0,0.24,69.08,30.68
+23634-10-2016,2016,Canvas Wood Lateral,Herman Miller,United States,Consumer Durables & Apparel,70.2,54.0,44.52,23.13,32.34
+23634-11-2016,2016,Canvas Wood Pedestal 2016,Herman Miller,United States,Consumer Durables & Apparel,88.7,77.0,44.52,23.13,32.34
+23634-1-2015,2015,Embody Chair,Herman Miller,United States,"Consumer Durables, Household and Personal Products",23.59,98.0,44.52,23.13,32.34
+3768-1-2016,2016,Natural Gas,CNX Resources,United States,Energy,0.0,0.063,5.69,3.02,91.29
+23634-1-2016,2016,Embody Chair,Herman Miller,United States,Consumer Durables & Apparel,23.59,98.0,44.52,23.13,32.34
+23634-12-2016,2016,Canvas Wood Tower,Herman Miller,United States,Consumer Durables & Apparel,107.0,43.0,44.52,23.13,32.34
+23634-13-2016,2016,New Aeron Chair,Herman Miller,United States,Consumer Durables & Apparel,19.32,87.0,44.52,23.13,32.34
+23634-2-2015,2015,Caper Stacking Chair,Herman Miller,United States,"Consumer Durables, Household and Personal Products",9.53,26.0,44.52,23.13,32.34
+23634-2-2016,2016,Caper Stacking Chair,Herman Miller,United States,Consumer Durables & Apparel,9.53,26.0,44.52,23.13,32.34
+23634-3-2015,2015,Aeron Chair,Herman Miller,United States,"Consumer Durables, Household and Personal Products",24.95,91.0,44.52,23.13,32.34
+23634-3-2016,2016,Aeron Chair,Herman Miller,United States,Consumer Durables & Apparel,24.95,98.0,44.52,23.13,32.34
+23634-4-2015,2015,Mirra 2 Chair,Herman Miller,United States,"Consumer Durables, Household and Personal Products",19.05,105.0,44.52,23.13,32.34
+23634-4-2016,2016,Mirra 2 Chair,Herman Miller,United States,Consumer Durables & Apparel,19.05,105.0,44.52,23.13,32.34
+23634-5-2015,2015,Sayl Work Chair Suspension Back,Herman Miller,United States,"Consumer Durables, Household and Personal Products",17.24,82.0,44.52,23.13,32.34
+23634-5-2016,2016,Sayl Work Chair Suspension Back,Herman Miller,United States,Consumer Durables & Apparel,17.24,82.0,44.52,23.13,32.34
+23634-6-2015,2015,Setu Multipurpose Chair with Lyris 2,Herman Miller,United States,"Consumer Durables, Household and Personal Products",7.71,48.0,44.52,23.13,32.34
+23634-6-2016,2016,Setu Multipurpose chair with Lyris 2,Herman Miller,United States,Consumer Durables & Apparel,7.71,48.0,44.52,23.13,32.34
+23634-7-2015,2015,Celle Chair,Herman Miller,United States,"Consumer Durables, Household and Personal Products",24.95,72.0,44.52,23.13,32.34
+23634-7-2016,2016,Celle Chair,Herman Miller,United States,Consumer Durables & Apparel,24.95,72.0,44.52,23.13,32.34
+23634-8-2016,2016,Aeron Work Stool,Herman Miller,United States,Consumer Durables & Apparel,34.93,102.0,44.52,23.13,32.34
+23634-9-2016,2016,Canvas Wood Credenza 2016,Herman Miller,United States,Consumer Durables & Apparel,99.5,76.0,44.52,23.13,32.34
+2377-1-2014,2014,Graphite 2500 DECT,BT Group,United Kingdom,Telecommunication Services,1.4,4.7,19.23,2.99,77.78
+2377-1-2015,2015,Graphite 2500 DECT,BT Group,United Kingdom,Telecommunication Services,1.4,4.7,19.23,2.99,77.78
+2377-2-2014,2014,Home Hub 20,BT Group,United Kingdom,Telecommunication Services,1.1,57.0,12.01,0.37,87.62
+2377-2-2015,2015,Home Hub 20,BT Group,United Kingdom,Telecommunication Services,1.1,57.0,11.86,0.37,87.78
+2377-3-2014,2014,Home Hub 30,BT Group,United Kingdom,Telecommunication Services,1.2,33.0,6.88,1.07,92.05
+2377-3-2015,2015,Home Hub 30,BT Group,United Kingdom,Telecommunication Services,1.2,33.0,6.88,1.07,92.05
+2377-4-2014,2014,Vision box,BT Group,United Kingdom,Telecommunication Services,1.7,88.0,11.23,0.05,88.72
+2377-4-2015,2015,Vision box,BT Group,United Kingdom,Telecommunication Services,1.7,88.0,11.23,0.05,88.72
+2555-1-2014,2014,Carbon Black,Cabot Corporation,United States,Materials,1000.0,2280.0,44.52,23.13,32.34
+2688-1-2014,2014,Multi Function Printer,Canon Inc.,Japan,Technology Hardware & Equipment,71.0,39.0,55.85,21.3,22.86
+2688-2-2014,2014,Multi Function Printer with a builtin facsimile,Canon Inc.,Japan,Technology Hardware & Equipment,30.98,57.0,56.52,21.55,21.93
+2688-3-2014,2014,Digital camera,Canon Inc.,Japan,Technology Hardware & Equipment,0.55,13.0,63.81,24.34,11.85
+2688-4-2014,2014,Single Lens Reflex camera system,Canon Inc.,Japan,Technology Hardware & Equipment,1.53,19.0,57.39,21.89,20.73
+2802-1-2013,2013,Ingeobiopolymer polylactid made from corn starch,Cargill,United States,"Food, Beverage & Tobacco",1.0,1.3,44.52,23.13,32.34
+2802-1-2014,2014,Ingeo,Cargill,United States,"Food, Beverage & Tobacco",1.0,1.3,44.52,23.13,32.34
+28843-1-2013,2013,Series 29 Hydrant  Squat Hydrant suitable for use with water and neutral liquids to a maximum temperature of 70 degrees centigrade Complies with requirements of BS7502006 and BSEN107422004 and EN143392005 underground hydrants Also to BS EN 10746 for potable drinking water This product has kitemark and WRAS approval The 2938832112 replaces the 2928832112,AVK,United Kingdom,Capital Goods,13.0,31.33,39.38,56.85,3.77
+28843-1-2014,2014,Series 29388 Squat Hydrant,AVK,United Kingdom,Capital Goods,13.0,30.05,97.64,0.13,2.22
+28843-2-2013,2013,The series 2175 is a resilient seat wedge gate valve for isolation purposes suitable for use with water and neutral liquids sewage to a maximum temperature of 70 degrees centegrade The series 2175 is a new alternative to a series 2150 in some applications Therefore where a 2175 is sold we can calculate the emissions saved in contrast to the sale of a 2150,AVK,United Kingdom,Capital Goods,41.0,94.08,45.25,46.95,7.8
+28843-3-2013,2013,Gas Product  Small 555 series cast iron softseal valve PN16 This series 555 softseal valve is a doublefaced resilient seat wedge gate valve It is designed primarily for the isolation of natural gas and towns gas Kitemark approved for GISV7 part 1,AVK,United Kingdom,Capital Goods,23.0,44.27,72.07,17.08,10.84
+28843-3-2014,2014,Series 555300 Gate Valve,AVK,United Kingdom,Capital Goods,23.0,33.44,99.48,0.09,0.43
+28843-4-2014,2014,Series 2150 Gate Valve,AVK,United Kingdom,Capital Goods,41.0,62.63,97.85,0.05,2.11
+28843-5-2014,2014,Series 20231 Repair Clamp,AVK,United Kingdom,Capital Goods,7.0,57.07,98.76,0.02,1.23
+28921-1-2016,2016,See attached sheet,Pacific Coast Producers,United States,"Food, Beverage & Tobacco",907.19,187.161,44.52,23.13,32.34
+28933-1-2013,2013,Ecoworx Carpet Tile with Shaws Eco Solution Q Nylon 6 face fiber,"Shaw Industries Group, Inc.",United States,Consumer Durables & Apparel,0.27,14.6,82.31,9.52,8.16
+28991-1-2016,2016,PET preforms for bottles,Retal,Lithuania,Materials,0.03,0.0108,44.52,23.13,32.34
+2908-1-2013,2013,Page Printer SPEEDIA N3600,"Casio Computer Co., Ltd.",Japan,Consumer Durables & Apparel,45.0,2344.0,11.52,0.55,87.92
+2908-1-2014,2014,SPEEDIA N3600,"Casio Computer Co., Ltd.",Japan,Consumer Durables & Apparel,45.0,2344.0,11.52,0.55,87.92
+3022-1-2016,2016,Lineal Alkyl Bencene LAB,"Compañía Española de Petróleos, S.A.U. CEPSA",Spain,Energy,1000.0,6109.0,44.52,23.13,32.34
+3022-2-2016,2016,Lineal Alkyl Bencene LAB,"Compañía Española de Petróleos, S.A.U. CEPSA",Spain,Energy,1000.0,890.0,44.52,23.13,32.34
+30495-1-2016,2016,E  Series Solar Panels SPR327NEWHTD AR modules,SunPower Corporation,United States,Capital Goods,18.6,281.0,44.52,23.13,32.34
+31487-1-2013,2013,Droid Razr,Motorola Mobility,United States,Consumer Durables & Apparel,0.13,29.96,0.07,92.35,7.59
+3193-1-2013,2013,50 TFTLCD TV module which consisted of the following main components PCBA converter TFTLCD panel LED backlight,Innolux Corporation,Taiwan,Technology Hardware & Equipment,14.96,145.0,60.0,40.0,0.0
+32738-1-2013,2013,CanBottle vending machine  30Selections  Cooling  warming   R744 Heat Pump Refrigeration System   LED Lighting,Sanden,Japan,Capital Goods,342.46,3139.9,28.42,4.25,67.33
+32738-1-2014,2014,Vending Machine,Sanden,Japan,Capital Goods,342.46,2403.2,35.98,5.77,58.25
+32738-1-2015,2015,Vending Machine,Sanden,Japan,Electrical Equipment and Machinery,342.46,2268.1,42.63,6.67,50.7
+32838-1-2015,2015,Sodium sulphate,Crimidesa,Spain,Chemicals,1000.0,180.0,44.52,23.13,32.34
+32838-1-2016,2016,sodium sulphate,Crimidesa,Spain,Materials,1000.0,140.0,44.52,23.13,32.34
+3329-2-2013,2013,IP Phone,"Cisco Systems, Inc.",United States,Technology Hardware & Equipment,3.5,278.0,19.39,7.4,73.21
+3329-3-2013,2013,Small Rack Mount Switch,"Cisco Systems, Inc.",United States,Technology Hardware & Equipment,2.0,1473.0,5.5,2.1,92.4
+33496-2-2014,2014,Walmart Brand Products,Perfection Bakeries Inc.,United States,Food & Staples Retailing,454.0,164.0,52.74,27.75,19.51
+33496-2-2015,2015,Walmart Brand Products,Perfection Bakeries Inc.,United States,Food & Staples Retailing,454.0,179.0,48.22,25.37,26.4
+33496-2-2016,2016,Walmart Brand Products,Perfection Bakeries Inc.,United States,"Food, Beverage & Tobacco",0.45,0.141,44.52,23.13,32.34
+3435-1-2016,2016,GMP 5Guanylate,CJ Cheiljedang,South Korea,"Food, Beverage & Tobacco",1000.0,24839.0,34.13,65.43,0.43
+3435-2-2016,2016,IG 5Ribonucleotide,CJ Cheiljedang,South Korea,"Food, Beverage & Tobacco",1000.0,21126.0,23.59,75.93,0.49
+3435-3-2016,2016,IMP 5Inosinate,CJ Cheiljedang,South Korea,"Food, Beverage & Tobacco",1000.0,18042.0,16.72,83.07,0.21
+3435-4-2016,2016,LArginine,CJ Cheiljedang,South Korea,"Food, Beverage & Tobacco",1000.0,26836.0,29.89,69.84,0.26
+3435-5-2016,2016,MSG Monosodium Glutamate,CJ Cheiljedang,South Korea,"Food, Beverage & Tobacco",1000.0,3859.0,22.73,76.08,1.19
+3435-6-2016,2016,SUGAR,CJ Cheiljedang,South Korea,"Food, Beverage & Tobacco",1000.0,114.8,44.52,23.13,32.34
+34386-1-2016,2016,Nicotine,CONTRAF-NICOTEX-TOBACCO GmbH,Germany,"Food, Beverage & Tobacco",1.0,16.884,23.57,12.4,64.03
+3448-1-2013,2013,Organic pigments PCF value for organic pigments cradle to gate,Clariant AG,Switzerland,Materials,1.0,26.0,44.52,23.13,32.34
+3448-2-2013,2013,PCF value for metal and effect pigments cradle to gate,Clariant AG,Switzerland,Materials,1.0,26.0,44.52,23.13,32.34
+3448-3-2014,2014,Organic Pigments,Clariant AG,Switzerland,Materials,1.0,26.0,44.52,23.13,32.34
+3448-3-2016,2016,Organic Pigments,Clariant AG,Switzerland,Materials,1.0,26.0,44.52,23.13,32.34
+3448-4-2016,2016,Deicing fluids,Clariant AG,Switzerland,Materials,1.0,1.85,44.52,23.13,32.34
+3448-5-2016,2016,Exolit ammonium polyphosphatet,Clariant AG,Switzerland,Materials,1.0,5.0,44.52,23.13,32.34
+3448-6-2016,2016,Exolit OP phosphinatest,Clariant AG,Switzerland,Materials,1.0,9.0,44.52,23.13,32.34
+3448-7-2016,2016,Sunliquidt,Clariant AG,Switzerland,Materials,0.03,0.004,22.36,11.85,65.79
+35290-1-2013,2013,Verre Infini perfumery glass made only with domestic glass from segregation Middle bottle weighing 100g,SGD Group,France,Household & Personal Products,0.1,0.124,44.52,23.13,32.34
+35290-2-2013,2013,Perfumery specific glass Middle bottle weighing 100g,SGD Group,France,Household & Personal Products,0.1,0.162,44.52,23.13,32.34
+35311-10-2016,2016,Interface Brazil Carpet,"Interface, Inc.",United States,Consumer Durables & Apparel,4.16,9.78,59.46,14.97,25.56
+35311-11-2016,2016,Interface Canada Carpet,"Interface, Inc.",United States,Consumer Durables & Apparel,4.16,11.06,52.51,13.22,34.27
+35311-1-2013,2013,Interface United States carpet tile The average square meter of carpet tile sold as Cool Carpet by our Interface business in the United States,"Interface, Inc.",United States,Consumer Durables & Apparel,4.16,13.39,54.89,13.82,31.29
+35311-1-2014,2014,Interface US carpet,"Interface, Inc.",United States,Consumer Durables & Apparel,4.16,12.59,54.63,13.76,31.61
+35311-12-2016,2016,Interface Global LVT,"Interface, Inc.",United States,Consumer Durables & Apparel,4.16,17.1,56.95,14.34,28.71
+35311-2-2013,2013,Interface EMEAI carpet tile The average square meter of carpet tile sold as Cool Carpet by our Interface business in EMEAI,"Interface, Inc.",United States,Consumer Durables & Apparel,4.16,10.1,52.6,13.24,34.16
+35311-2-2015,2015,Interface EMEA Carpet,"Interface, Inc.",United States,"Textiles, Apparel, Footwear and Luxury Goods",4.16,10.98,66.48,2.0,31.51
+35311-3-2013,2013,Interface Thailand carpet tile The average square meter of carpet tile sold as Cool Carpet by our Interface business in Southeast Asia,"Interface, Inc.",United States,Consumer Durables & Apparel,4.16,14.99,60.06,15.12,24.82
+35311-3-2014,2014,Interface Asia carpet,"Interface, Inc.",United States,Consumer Durables & Apparel,4.16,14.09,57.94,14.59,27.47
+35311-3-2016,2016,Interface Thailand Carpet,"Interface, Inc.",United States,Consumer Durables & Apparel,4.16,11.3,57.33,14.44,28.23
+35311-4-2013,2013,Interface Australia carpet tile The average square meter of carpet tile sold as Cool Carpet by our Interface business in Australia,"Interface, Inc.",United States,Consumer Durables & Apparel,4.16,17.15,56.13,14.13,29.74
+35311-4-2015,2015,Interface Australia Carpet,"Interface, Inc.",United States,"Textiles, Apparel, Footwear and Luxury Goods",4.16,15.93,53.67,15.38,30.95
+35311-4-2016,2016,Interface Australia Carpet,"Interface, Inc.",United States,Consumer Durables & Apparel,4.16,12.84,50.02,12.6,37.38
+35311-5-2014,2014,Interface Europe carpet,"Interface, Inc.",United States,Consumer Durables & Apparel,4.16,10.09,52.36,13.18,34.46
+35311-5-2016,2016,Interface Europe Carpet,"Interface, Inc.",United States,Consumer Durables & Apparel,4.16,10.41,48.42,12.19,39.39
+35311-6-2015,2015,Interface Asia Carpet,"Interface, Inc.",United States,"Textiles, Apparel, Footwear and Luxury Goods",4.16,13.63,65.08,6.97,27.95
+35311-7-2015,2015,Interface Americas Carpet,"Interface, Inc.",United States,"Textiles, Apparel, Footwear and Luxury Goods",4.16,12.89,64.57,4.65,30.78
+35311-7-2016,2016,Interface Americas Carpet,"Interface, Inc.",United States,Consumer Durables & Apparel,4.16,11.27,53.14,13.38,33.48
+35311-8-2015,2015,Interface China Carpet,"Interface, Inc.",United States,"Textiles, Apparel, Footwear and Luxury Goods",4.16,15.44,60.91,7.77,31.33
+35311-8-2016,2016,Interface China Carpet,"Interface, Inc.",United States,Consumer Durables & Apparel,4.16,15.42,43.49,10.95,45.55
+35374-1-2013,2013,Ethanol In addition to its use as fuel in vehicles ethanol is an input to the food chemical and cosmetic industries,Raizen,Brazil,Energy,789.0,750.0,44.52,23.13,32.34
+3565-10-2013,2013,Coke Zero 330 ml glass bottle,"Coca-Cola Enterprises, Inc.",United States,"Food, Beverage & Tobacco",0.54,0.34,73.95,3.42,22.63
+3565-11-2013,2013,Coke Zero 500ml PET,"Coca-Cola Enterprises, Inc.",United States,"Food, Beverage & Tobacco",0.54,0.22,52.09,12.32,35.59
+3565-1-2013,2013,CocaCola 300ml can,"Coca-Cola Enterprises, Inc.",United States,"Food, Beverage & Tobacco",0.3,0.17,69.76,7.0,23.24
+3565-12-2013,2013,Coke Zero 2 litre plastic bottle,"Coca-Cola Enterprises, Inc.",United States,"Food, Beverage & Tobacco",2.0,0.4,50.2,21.6,28.2
+3565-13-2013,2013,Oasis Summer Fruits   375ml glass,"Coca-Cola Enterprises, Inc.",United States,"Food, Beverage & Tobacco",0.61,0.35,72.51,4.29,23.21
+3565-14-2013,2013,Oasis Summer Fruits  500ml plastic bottle,"Coca-Cola Enterprises, Inc.",United States,"Food, Beverage & Tobacco",0.54,0.24,56.84,11.43,31.73
+3565-2-2013,2013,CocaCola 300ml glass bottle,"Coca-Cola Enterprises, Inc.",United States,"Food, Beverage & Tobacco",0.49,0.36,44.52,23.13,32.34
+3565-3-2013,2013,CocaCola 500ml plastic bottle,"Coca-Cola Enterprises, Inc.",United States,"Food, Beverage & Tobacco",0.54,0.24,57.18,11.02,31.8
+3565-4-2013,2013,CocaCola 2 litre plastic bottle,"Coca-Cola Enterprises, Inc.",United States,"Food, Beverage & Tobacco",2.0,0.5,60.96,17.12,21.92
+3565-5-2013,2013,Diet Coke 300ml can,"Coca-Cola Enterprises, Inc.",United States,"Food, Beverage & Tobacco",0.3,0.15,66.44,7.66,25.9
+3565-6-2013,2013,Diet Coke 330ml glass bottle,"Coca-Cola Enterprises, Inc.",United States,"Food, Beverage & Tobacco",0.54,0.34,73.38,3.5,23.12
+3565-7-2013,2013,Diet Coke 500 ml plastic bottle,"Coca-Cola Enterprises, Inc.",United States,"Food, Beverage & Tobacco",0.54,0.22,52.32,12.22,35.46
+3565-8-2013,2013,Diet Coke  2 Litre Plastic Bottle,"Coca-Cola Enterprises, Inc.",United States,"Food, Beverage & Tobacco",2.0,0.4,46.4,23.28,30.32
+3565-9-2013,2013,Coke Zero 300ml can,"Coca-Cola Enterprises, Inc.",United States,"Food, Beverage & Tobacco",0.3,0.15,52.07,12.33,35.6
+3652-1-2013,2013,Netbook SKU High efficient CPU101inch LED backlight,Compal Electronics,Taiwan,Technology Hardware & Equipment,2.0,156.95,60.59,0.73,38.68
+3652-2-2013,2013,Notebook,Compal Electronics,Taiwan,Technology Hardware & Equipment,2.58,131.82,30.0,2.0,68.0
+37921-1-2015,2015,Plastics,Trinseo LLC,United States,Chemicals,1.0,0.18,44.52,23.13,32.34
+37921-1-2016,2016,Plastics,Trinseo LLC,United States,Materials,1000.0,120.0,44.52,23.13,32.34
+37921-2-2015,2015,Latex,Trinseo LLC,United States,Chemicals,1.0,0.21,44.52,23.13,32.34
+37921-3-2015,2015,Rubber,Trinseo LLC,United States,Chemicals,1.0,0.99,44.52,23.13,32.34
+37921-3-2016,2016,Rubber,Trinseo LLC,United States,Materials,1000.0,1153.0,44.52,23.13,32.34
+37921-4-2016,2016,Binders,Trinseo LLC,United States,Materials,1000.0,210.0,44.52,23.13,32.34
+37977-1-2015,2015,T300,Tennant Company,United States,Electrical Equipment and Machinery,181.0,655.0,44.52,23.13,32.34
+37977-1-2016,2016,T300,Tennant Company,United States,Capital Goods,181.0,4468.7,17.33,3.73,78.94
+38359-10-2016,2016,Pesto alla Genovese sauce,Barilla Holding SpA,Italy,Food & Staples Retailing,0.19,0.546,84.49,14.23,1.28
+38359-1-2014,2014,Pasta produced in United States,Barilla Holding SpA,Italy,Food & Staples Retailing,1.0,1.279,54.65,37.53,7.82
+38359-1-2015,2015,Pasta produced in United States,Barilla Holding SpA,Italy,Food & Staples Retailing,1.0,1.317,56.9,35.51,7.59
+38359-2-2014,2014,Pasta produced in Italy local consumption,Barilla Holding SpA,Italy,Food & Staples Retailing,1.0,0.947,69.38,26.4,4.22
+38359-2-2015,2015,Pasta produced in Italy local consumption,Barilla Holding SpA,Italy,Food & Staples Retailing,1.0,0.848,67.06,28.57,4.37
+38359-3-2014,2014,Pasta produced in Italy for export,Barilla Holding SpA,Italy,Food & Staples Retailing,1.0,1.027,63.97,24.34,11.68
+38359-3-2015,2015,Pasta produced in Italy for export,Barilla Holding SpA,Italy,Food & Staples Retailing,1.0,0.885,64.47,27.47,8.06
+38359-4-2014,2014,Pasta produced in Greece,Barilla Holding SpA,Italy,Food & Staples Retailing,1.0,1.67,60.84,25.15,14.01
+38359-4-2015,2015,Pasta produced in Greece,Barilla Holding SpA,Italy,Food & Staples Retailing,1.0,1.701,59.59,26.65,13.76
+38359-5-2014,2014,Pasta produced in Turkey,Barilla Holding SpA,Italy,Food & Staples Retailing,1.0,0.926,68.03,23.54,8.42
+38359-5-2015,2015,Pasta produced in Turkey,Barilla Holding SpA,Italy,Food & Staples Retailing,1.0,0.936,74.97,16.68,8.34
+38359-6-2014,2014,Crispn light 7 grains,Barilla Holding SpA,Italy,Food & Staples Retailing,0.14,0.181,44.52,23.13,32.34
+38359-6-2015,2015,Crispn light 7 grains,Barilla Holding SpA,Italy,Food & Staples Retailing,0.14,0.211,44.52,23.13,32.34
+38359-7-2014,2014,Light rye,Barilla Holding SpA,Italy,Food & Staples Retailing,0.27,0.316,44.52,23.13,32.34
+38359-7-2015,2015,Light rye,Barilla Holding SpA,Italy,Food & Staples Retailing,0.27,0.365,44.52,23.13,32.34
+38359-7-2016,2016,Light Rye,Barilla Holding SpA,Italy,Food & Staples Retailing,0.27,0.386,44.52,23.13,32.34
+38359-8-2014,2014,Multi grain,Barilla Holding SpA,Italy,Food & Staples Retailing,0.28,0.323,44.52,23.13,32.34
+38359-8-2015,2015,Multi grain,Barilla Holding SpA,Italy,Food & Staples Retailing,0.28,1.236,65.61,16.1,18.28
+38359-8-2016,2016,Multi Grain,Barilla Holding SpA,Italy,Food & Staples Retailing,0.28,0.34,44.52,23.13,32.34
+38359-9-2016,2016,Durum wheat semolina pasta in paperboard box produced in United States,Barilla Holding SpA,Italy,Food & Staples Retailing,1.0,1.33,44.52,23.13,32.34
+38459-1-2013,2013,5 oz can whitemeat tuna,Bumble Bee Foods LLC,United States,"Food, Beverage & Tobacco",0.18,0.68,80.88,14.71,4.41
+38459-2-2013,2013,5 oz can lightmeat tuna,Bumble Bee Foods LLC,United States,"Food, Beverage & Tobacco",0.18,0.39,84.62,5.13,10.26
+39118-1-2013,2013,This is the average footprint of the 31 products we provided Walmart in 2012 The unit is in kg CO2etonne of product,Stonyfield Farm Inc,United States,"Food, Beverage & Tobacco",1000.0,1361.0,44.52,23.13,32.34
+39118-1-2014,2014,Average SKU,Stonyfield Farm Inc,United States,"Food, Beverage & Tobacco",1000.0,1360.0,44.52,23.13,32.34
+3928-1-2014,2014,Finished cold rolled coil,Tata Steel Europe,United Kingdom,Materials,1.0,1.1,44.52,23.13,32.34
+3928-2-2014,2014,Hot Dip Galvanised Coil,Tata Steel Europe,United Kingdom,Materials,1.0,1.2,44.52,23.13,32.34
+3928-3-2014,2014,Hot rolled coil,Tata Steel Europe,United Kingdom,Materials,1.0,1.05,44.52,23.13,32.34
+394-10-2017,2017,HONDASHIR,Ajinomoto Co.Inc.,Japan,"Food, Beverage & Tobacco",0.12,1.69,44.52,23.13,32.34
+394-11-2017,2017,KnorrR Cup Soup Tsubu Tappuri Corn Cream,Ajinomoto Co.Inc.,Japan,"Food, Beverage & Tobacco",0.05,0.33,44.52,23.13,32.34
+394-1-2015,2015,LLysine MonohydrochlorideFor Feed,Ajinomoto Co.Inc.,Japan,Food & Beverage Processing,25.0,130.0,33.41,63.64,2.94
+394-1-2017,2017,LLysine MonohydrochlorideFor Feed,Ajinomoto Co.Inc.,Japan,"Food, Beverage & Tobacco",25.0,130.0,33.41,63.64,2.94
+394-12-2017,2017,LArginine,Ajinomoto Co.Inc.,Japan,"Food, Beverage & Tobacco",20.0,301.0,39.91,59.54,0.55
+394-13-2017,2017,Lemon and Basil Fried Chicken,Ajinomoto Co.Inc.,Japan,"Food, Beverage & Tobacco",0.13,0.74,44.52,23.13,32.34
+394-14-2017,2017,LGlutamine,Ajinomoto Co.Inc.,Japan,"Food, Beverage & Tobacco",25.0,319.0,36.95,60.44,2.61
+394-15-2017,2017,LIsoleucine,Ajinomoto Co.Inc.,Japan,"Food, Beverage & Tobacco",20.0,433.0,27.91,70.59,1.49
+394-16-2017,2017,Lleucine,Ajinomoto Co.Inc.,Japan,"Food, Beverage & Tobacco",20.0,585.0,18.45,80.45,1.11
+394-17-2017,2017,LValine,Ajinomoto Co.Inc.,Japan,"Food, Beverage & Tobacco",20.0,393.0,20.19,78.16,1.65
+394-18-2017,2017,Masako Ayam,Ajinomoto Co.Inc.,Japan,"Food, Beverage & Tobacco",0.01,0.03,44.52,23.13,32.34
+394-19-2017,2017,Mentsuyu,Ajinomoto Co.Inc.,Japan,"Food, Beverage & Tobacco",0.4,1.01,44.52,23.13,32.34
+394-20-2017,2017,Monosodium LGlutamate,Ajinomoto Co.Inc.,Japan,"Food, Beverage & Tobacco",20.0,58.0,43.9,53.48,2.61
+394-21-2017,2017,Nabe CubeR Toridashi Umashio,Ajinomoto Co.Inc.,Japan,"Food, Beverage & Tobacco",0.06,0.5,44.52,23.13,32.34
+394-2-2017,2017,AGF Blendy Stick Cafe au Lait,Ajinomoto Co.Inc.,Japan,"Food, Beverage & Tobacco",0.12,0.58,44.52,23.13,32.34
+394-22-2017,2017,Rosdee Pork,Ajinomoto Co.Inc.,Japan,"Food, Beverage & Tobacco",0.08,0.24,44.52,23.13,32.34
+394-3-2017,2017,Ajingon Pork,Ajinomoto Co.Inc.,Japan,"Food, Beverage & Tobacco",0.4,1.07,44.52,23.13,32.34
+394-4-2017,2017,Ajinomoto KK ConsommeGranules,Ajinomoto Co.Inc.,Japan,"Food, Beverage & Tobacco",0.08,0.58,44.52,23.13,32.34
+394-5-2017,2017,Ajinomoto KK Shirogayu 250g,Ajinomoto Co.Inc.,Japan,"Food, Beverage & Tobacco",0.25,0.2,44.52,23.13,32.34
+394-6-2017,2017,Aspartame,Ajinomoto Co.Inc.,Japan,"Food, Beverage & Tobacco",25.0,780.0,44.52,23.13,32.34
+394-7-2017,2017,Cook DoR Hoikoro,Ajinomoto Co.Inc.,Japan,"Food, Beverage & Tobacco",0.09,0.27,44.52,23.13,32.34
+394-8-2017,2017,Cook DoR kyono Ozara Butabara Daikon,Ajinomoto Co.Inc.,Japan,"Food, Beverage & Tobacco",0.1,0.23,44.52,23.13,32.34
+394-9-2017,2017,Disodium 5Inosinate,Ajinomoto Co.Inc.,Japan,"Food, Beverage & Tobacco",12.0,155.0,42.81,56.61,0.58
+40638-1-2016,2016,Diced tomato,Agraz,Spain,"Food, Beverage & Tobacco",220.0,155.71,44.52,23.13,32.34
+40638-2-2016,2016,Tomato fibre,Agraz,Spain,"Food, Beverage & Tobacco",25.0,12.52,44.52,23.13,32.34
+40638-3-2016,2016,Tomato paste,Agraz,Spain,"Food, Beverage & Tobacco",238.0,155.78,44.52,23.13,32.34
+40638-4-2016,2016,Tomato powder,Agraz,Spain,"Food, Beverage & Tobacco",25.0,16.22,44.52,23.13,32.34
+40661-1-2014,2014,Peppermint tea infusion,Martin Bauer GmbH,Germany,"Food, Beverage & Tobacco",0.0,0.02041,44.52,23.13,32.34
+40661-1-2015,2015,Peppermint tea infusion,Martin Bauer GmbH,Germany,"Food, Beverage & Tobacco",0.0,0.02041,44.52,23.13,32.34
+40920-1-2015,2015,PET preforms,Mpact Limited,South Africa,Containers & Packaging,1000.0,871.0,44.52,23.13,32.34
+41515-1-2013,2013,Cable of LMR195LLPL,Times Microwave Systems,United States,Capital Goods,0.03,0.0295,44.52,23.13,32.34
+41515-1-2014,2014,Cable,Times Microwave Systems,United States,Capital Goods,0.03,0.0255,44.52,23.13,32.34
+41515-1-2015,2015,Cable,Times Microwave Systems,United States,Electrical Equipment and Machinery,0.03,0.023,44.52,23.13,32.34
+41697-1-2016,2016,Float Table Top  Base,Humanscale Corporation,United States,Commercial & Professional Services,59.02,39.5,44.52,23.13,32.34
+462-7-2013,2013,Sodium chlorate produced in North America,Akzo Nobel,Netherlands,Materials,1000.0,1200.0,15.38,84.62,0.0
+41697-2-2016,2016,Smart Chair,Humanscale Corporation,United States,Commercial & Professional Services,16.78,34.0,44.52,23.13,32.34
+4226-1-2013,2013,Residential Air Conditioner,"Daikin Industries, Ltd.",Japan,Capital Goods,17.46,3653.0,3.78,0.63,95.59
+4226-1-2014,2014,Residential Air Conditioner,"Daikin Industries, Ltd.",Japan,Capital Goods,17.46,3505.0,3.94,0.66,95.41
+4226-1-2015,2015,Residential Air Conditioner,"Daikin Industries, Ltd.",Japan,Capital Goods,17.46,3505.0,3.94,0.66,95.41
+4226-1-2017,2017,Residential Air Conditioner,"Daikin Industries, Ltd.",Japan,Capital Goods,17.46,4218.0,3.96,0.55,95.5
+4226-2-2017,2017,Commercial Air Conditioner,"Daikin Industries, Ltd.",Japan,Capital Goods,149.68,51066.0,0.98,0.13,98.88
+4226-3-2017,2017,Light commercial Air Conditioner,"Daikin Industries, Ltd.",Japan,Capital Goods,128.37,39653.0,0.7,0.1,99.21
+4235-10-2015,2015,MercedesBenz CLSClass,Daimler AG,Germany,Automobiles & Components,1790.0,57100.0,44.52,23.13,32.34
+4235-11-2015,2015,MercedesBenz EClass BlueTEC Hybrid,Daimler AG,Germany,Automobiles & Components,1735.0,40600.0,44.52,23.13,32.34
+4235-1-2015,2015,MercedesBenz AClass,Daimler AG,Germany,Automobiles & Components,1425.0,30500.0,44.52,23.13,32.34
+4235-12-2015,2015,MercedesBenz GLAClass,Daimler AG,Germany,Automobiles & Components,1535.0,31500.0,44.52,23.13,32.34
+4235-13-2015,2015,MercedesBenz GLKClass,Daimler AG,Germany,Automobiles & Components,1850.0,48800.0,44.52,23.13,32.34
+4235-14-2015,2015,MercedesBenz SLClass,Daimler AG,Germany,Automobiles & Components,1730.0,69000.0,44.52,23.13,32.34
+4235-15-2016,2016,MercedesBenz AClass A 180 BlueEFFICIENCY,Daimler AG,Germany,Automobiles & Components,1200.0,32000.0,44.52,23.13,32.34
+4235-16-2016,2016,MercedesBenz BClass B 180 BlueEFFICIENCY,Daimler AG,Germany,Automobiles & Components,1200.0,34000.0,44.52,23.13,32.34
+4235-17-2016,2016,MercedesBenz BClass Electric Drive B 250 e,Daimler AG,Germany,Automobiles & Components,1650.0,12000.0,44.52,23.13,32.34
+4235-18-2016,2016,MercedesBenz CClass C 180,Daimler AG,Germany,Automobiles & Components,1400.0,36000.0,44.52,23.13,32.34
+4235-19-2016,2016,MercedesBenz CClass C 250,Daimler AG,Germany,Automobiles & Components,1800.0,39000.0,44.52,23.13,32.34
+4235-20-2016,2016,MercedesBenz CClass PlugIn Hybrid C 350 e,Daimler AG,Germany,Automobiles & Components,1925.0,24000.0,44.52,23.13,32.34
+4235-21-2016,2016,MercedesBenz CLA CLA 180,Daimler AG,Germany,Automobiles & Components,1200.0,31000.0,44.52,23.13,32.34
+4235-2-2015,2015,MercedesBenz BClass,Daimler AG,Germany,Automobiles & Components,1425.0,32500.0,44.52,23.13,32.34
+4235-22-2016,2016,MercedesBenz CLS 350 BlueEFFICIENCY,Daimler AG,Germany,Automobiles & Components,2220.0,60000.0,44.52,23.13,32.34
+4235-23-2016,2016,MercedesBenz EClass E 200,Daimler AG,Germany,Automobiles & Components,1500.0,50000.0,44.52,23.13,32.34
+4235-24-2016,2016,MercedesBenz EClass E 220 d Estate,Daimler AG,Germany,Automobiles & Components,2320.0,41000.0,44.52,23.13,32.34
+4235-25-2016,2016,MercedesBenz EClass E 220 d,Daimler AG,Germany,Automobiles & Components,2100.0,38000.0,18.46,5.69,75.85
+4235-26-2016,2016,MercedesBenz EClass PlugIn Hybrid E 350 e,Daimler AG,Germany,Automobiles & Components,1925.0,26000.0,31.44,9.7,58.87
+4235-27-2016,2016,MercedesBenz GLA GLA 200,Daimler AG,Germany,Automobiles & Components,1400.0,33000.0,44.52,23.13,32.34
+4235-28-2016,2016,MercedesBenz GLC 220 d 4MATIC,Daimler AG,Germany,Automobiles & Components,2500.0,39000.0,44.52,23.13,32.34
+4235-29-2016,2016,MercedesBenz GLC PlugIn Hybrid GLC 350 e 4MATIC,Daimler AG,Germany,Automobiles & Components,2000.0,27000.0,44.52,23.13,32.34
+4235-30-2016,2016,MercedesBenz GLE GLE 500 4MATIC,Daimler AG,Germany,Automobiles & Components,3500.0,91000.0,44.52,23.13,32.34
+4235-31-2016,2016,MercedesBenz GLE PlugIn Hybrid  GLE 500 e 4MATIC,Daimler AG,Germany,Automobiles & Components,3500.0,39000.0,44.52,23.13,32.34
+4235-3-2015,2015,MercedesBenz CClass,Daimler AG,Germany,Automobiles & Components,1505.0,50500.0,44.52,23.13,32.34
+4235-32-2016,2016,MercedesBenz SClass S 500,Daimler AG,Germany,Automobiles & Components,2050.0,85000.0,44.52,23.13,32.34
+4235-33-2016,2016,MercedesBenz SClass Hybrid S 300 BlueTEC HYBRID,Daimler AG,Germany,Automobiles & Components,2715.0,51000.0,44.52,23.13,32.34
+4235-34-2016,2016,MercedesBenz SClass Hybrid S 400 h,Daimler AG,Germany,Automobiles & Components,2595.0,66000.0,44.52,23.13,32.34
+4235-35-2016,2016,MercedesBenz SClass PlugIn Hybrid S 500 e,Daimler AG,Germany,Automobiles & Components,2585.0,38000.0,44.52,23.13,32.34
+4235-36-2016,2016,MercedesBenz SL SL 350,Daimler AG,Germany,Automobiles & Components,2065.0,72000.0,44.52,23.13,32.34
+4235-37-2016,2016,MercedesBenz SLC SLK 200 BlueEFFICIENCY,Daimler AG,Germany,Automobiles & Components,2015.0,45000.0,44.52,23.13,32.34
+4235-4-2015,2015,MercedesBenz CClass e,Daimler AG,Germany,Automobiles & Components,1580.0,27400.0,44.52,23.13,32.34
+4235-5-2015,2015,MercedesBenz EClass Saloon,Daimler AG,Germany,Automobiles & Components,1680.0,47200.0,44.52,23.13,32.34
+4235-6-2015,2015,MercedesBenz MClass  Passenger Car,Daimler AG,Germany,Automobiles & Components,2110.0,43600.0,44.52,23.13,32.34
+4235-7-2015,2015,MercedesBenz SClass,Daimler AG,Germany,Automobiles & Components,2015.0,54000.0,44.52,23.13,32.34
+4235-8-2015,2015,MercedesBenz BClass electric drive,Daimler AG,Germany,Automobiles & Components,1725.0,22600.0,44.52,23.13,32.34
+4235-9-2015,2015,MercedesBenz CLAClass,Daimler AG,Germany,Automobiles & Components,1490.0,30000.0,44.52,23.13,32.34
+4311-1-2013,2013,Set yoghourt,Danone,France,"Food, Beverage & Tobacco",1.0,1.531,65.19,11.3,23.51
+4311-2-2013,2013,Drink yoghourt,Danone,France,"Food, Beverage & Tobacco",1.0,1.297,63.45,9.1,27.45
+4311-3-2013,2013,Plain Water SKU Bonafont 1L film bottle,Danone,France,"Food, Beverage & Tobacco",1.0,0.174,35.63,17.24,47.13
+4311-4-2015,2015,BONAFONT NATURAL 6000 ML X2 FILM 84 6L RPET Bottle54742,Danone,France,Food & Beverage Processing,1.0,0.145,36.24,19.78,43.98
+4311-5-2015,2015,DANONE MPCK STRAWBERRY 1960G 8X245G87121,Danone,France,Food & Beverage Processing,1.0,2.279,78.26,5.48,16.26
+4311-6-2015,2015,SILHOUETTE STPERABL 100GX1614967,Danone,France,Food & Beverage Processing,1.0,1.26,78.78,4.91,16.31
+4311-7-2015,2015,Activia STRPCHBLU 24X4OZ CLUB67740,Danone,France,Food & Beverage Processing,1.0,2.253,74.78,7.31,17.91
+432-1-2016,2016,Argon,Air Liquide,France,Materials,1.79,0.567,44.52,23.13,32.34
+432-3-2016,2016,Nitrogen,Air Liquide,France,Materials,1.25,0.501,44.52,23.13,32.34
+4332-1-2014,2014,Keyboards,Darfon Electronics Corp,Taiwan,Technology Hardware & Equipment,0.44,10.41,44.52,23.13,32.34
+4332-1-2015,2015,Keyboard,Darfon Electronics Corp,Taiwan,Technology Hardware & Equipment,0.16,0.89,44.52,23.13,32.34
+4416-1-2016,2016,DC fan,Delta Electronics,Taiwan,Technology Hardware & Equipment,0.26,1.86,84.09,15.91,0.0
+4416-2-2016,2016,External power supply portable adaptor,Delta Electronics,Taiwan,Technology Hardware & Equipment,0.36,7.9,96.84,3.16,0.0
+4416-3-2016,2016,PV Inverter,Delta Electronics,Taiwan,Technology Hardware & Equipment,81.92,686.42,95.14,4.86,0.0
+4416-4-2016,2016,TPS Telecom Power System,Delta Electronics,Taiwan,Technology Hardware & Equipment,4.1,69.437,5.49,94.51,0.0
+4433-10-2015,2015,Latitude E6440,Dell Inc.,United States,Technology Hardware & Equipment,2.12,348.0,48.89,18.64,32.47
+4433-11-2015,2015,Latitude E6540,Dell Inc.,United States,Technology Hardware & Equipment,2.56,408.0,45.95,17.53,36.52
+4433-1-2013,2013,The Latitude E6400 is a typical highvolume mainstream business laptop that is representative of a range of similar laptop  products It is Energy Star 50 qualified and EPEAT Gold registered,Dell Inc.,United States,Technology Hardware & Equipment,2.52,350.0,44.52,23.13,32.34
+4433-12-2015,2015,Latitude E7240,Dell Inc.,United States,Technology Hardware & Equipment,1.36,310.0,58.66,22.37,18.97
+4433-13-2015,2015,Latitude E7440,Dell Inc.,United States,Technology Hardware & Equipment,1.63,276.0,56.39,21.51,22.1
+4433-14-2015,2015,OptiPlex 3030 allinone,Dell Inc.,United States,Technology Hardware & Equipment,7.03,480.0,36.35,13.86,49.79
+4433-2-2013,2013,The OptiPlex 780 Mini Tower is a typical highvolume mainstream business desktop that is representative of a range of similar desktop products It is Energy Star 50 compliant and EPEAT Gold registered,Dell Inc.,United States,Technology Hardware & Equipment,11.7,800.0,44.52,23.13,32.34
+462-8-2013,2013,Sodium chlorate as solid phase produced in South America,Akzo Nobel,Netherlands,Materials,1000.0,220.0,59.09,40.91,0.0
+4433-3-2013,2013,PowerEdge R710 is a typical highvolume nextgeneration Intel Xeon processorbased 2U Rack Server that is representative of a range of similar server products,Dell Inc.,United States,Technology Hardware & Equipment,26.1,6360.0,44.52,23.13,32.34
+4433-3-2015,2015,PowerEdge R710,Dell Inc.,United States,Technology Hardware & Equipment,26.1,6360.0,5.72,2.18,92.1
+4433-4-2015,2015,OptiPlex 3010 Minitower MT,Dell Inc.,United States,Technology Hardware & Equipment,5.7,624.0,32.6,12.43,54.97
+4433-5-2015,2015,OptiPlex 9010 Small Form Factor SFF,Dell Inc.,United States,Technology Hardware & Equipment,6.0,667.0,28.39,10.83,60.78
+4433-6-2015,2015,Latitude E3440,Dell Inc.,United States,Technology Hardware & Equipment,2.0,314.0,50.19,19.14,30.67
+4433-7-2015,2015,Latitude E3540,Dell Inc.,United States,Technology Hardware & Equipment,2.22,309.0,53.71,20.48,25.81
+4433-8-2015,2015,Latitude E5440,Dell Inc.,United States,Technology Hardware & Equipment,2.0,292.0,55.78,21.27,22.95
+4433-9-2015,2015,Latitude E5540,Dell Inc.,United States,Technology Hardware & Equipment,2.3,311.0,53.8,20.52,25.68
+462-10-2013,2013,Average of all products sold to Braskem,Akzo Nobel,Netherlands,Materials,1.0,5.5,44.52,23.13,32.34
+462-10-2014,2014,Average of all products sold to Braskem,Akzo Nobel,Netherlands,Materials,1000.0,5500.0,44.52,23.13,32.34
+462-10-2015,2015,Average of all products sold to Braskem,Akzo Nobel,Netherlands,Chemicals,1000.0,6500.0,44.52,23.13,32.34
+462-10-2016,2016,Average of all products sold to Braskem,Akzo Nobel,Netherlands,Materials,1000.0,6240.0,44.52,23.13,32.34
+462-11-2014,2014,Aggregated Global Sales for KAO,Akzo Nobel,Netherlands,Materials,1000.0,3100.0,83.55,16.45,0.0
+462-1-2013,2013,Beverage can inside spray lacquer steel  Aqualure 905,Akzo Nobel,Netherlands,Materials,1000.0,2000.0,95.96,4.04,0.0
+462-1-2014,2014,Beverage can inside spray lacquer steel,Akzo Nobel,Netherlands,Materials,1000.0,2000.0,95.96,4.04,0.0
+462-12-2014,2014,Average of all products sold to KAO,Akzo Nobel,Netherlands,Materials,1000.0,4900.0,44.52,23.13,32.34
+462-13-2015,2015,Aggregated Global Sales for Customer CNH Industrial NV,Akzo Nobel,Netherlands,Chemicals,1000.0,4700.0,91.3,8.7,0.0
+462-14-2016,2016,Aggregated global sales for Dell Inc,Akzo Nobel,Netherlands,Materials,1000.0,1320.0,44.52,23.13,32.34
+462-15-2016,2016,Aggregated sales to Symrise,Akzo Nobel,Netherlands,Materials,1000.0,141.0,44.52,23.13,32.34
+462-16-2016,2016,Caustic products delivered to ICL,Akzo Nobel,Netherlands,Materials,1000.0,440.0,44.52,23.13,32.34
+462-17-2016,2016,Chelates and Micronutrients sold to ICL,Akzo Nobel,Netherlands,Materials,1.0,2.85,44.52,23.13,32.34
+462-18-2016,2016,Chlormethane products delivered to ICL,Akzo Nobel,Netherlands,Materials,1000.0,1800.0,44.52,23.13,32.34
+462-2-2013,2013,Beverage can inside spray lacquer aluminium  Aqualure 900 Aqualure 2000 etc,Akzo Nobel,Netherlands,Materials,1000.0,1600.0,94.94,5.06,0.0
+462-2-2014,2014,Beverage can inside spray lacquer aluminium,Akzo Nobel,Netherlands,Materials,1000.0,1600.0,94.94,5.06,0.0
+462-2-2015,2015,Beverage can inside spray lacquer aluminium,Akzo Nobel,Netherlands,Chemicals,1000.0,1600.0,94.94,5.06,0.0
+462-3-2013,2013,Overprint varnishes  also used to approximate rim varnishes,Akzo Nobel,Netherlands,Materials,1000.0,2200.0,96.33,3.67,0.0
+462-3-2014,2014,Overprint varnishes,Akzo Nobel,Netherlands,Materials,1000.0,2200.0,96.33,3.67,0.0
+462-3-2015,2015,Overprint varnishes,Akzo Nobel,Netherlands,Chemicals,1000.0,2200.0,96.33,3.67,0.0
+462-4-2013,2013,Aggregated Global Sales for Unilever  Polyacrylates and other products,Akzo Nobel,Netherlands,Materials,1.0,3.0,70.2,29.8,0.0
+462-4-2014,2014,Aggregated Global Sales for Unilever,Akzo Nobel,Netherlands,Materials,1000.0,3420.0,71.64,28.36,0.0
+462-4-2015,2015,Aggregated Global Sales for Unilever,Akzo Nobel,Netherlands,Chemicals,1000.0,2580.0,74.81,25.19,0.0
+462-4-2016,2016,Aggregated Global Sales for Unilever,Akzo Nobel,Netherlands,Materials,1.0,2.54,44.52,23.13,32.34
+462-5-2013,2013,Aggregated Global Sales for LOreal  Polyacrylates and other products,Akzo Nobel,Netherlands,Materials,1.0,2.2,50.18,49.82,0.0
+462-5-2014,2014,Aggregated Global Sales for LOreal,Akzo Nobel,Netherlands,Materials,1000.0,3010.0,65.45,34.55,0.0
+462-5-2015,2015,Aggregated Global Sales for LOreal,Akzo Nobel,Netherlands,Chemicals,1000.0,2760.0,64.74,35.26,0.0
+462-5-2016,2016,Aggregated Global Sales for LOreal,Akzo Nobel,Netherlands,Materials,1.0,2.69,44.52,23.13,32.34
+462-6-2013,2013,Aggregated Global Sales for Johnson  Johnson  Polyacrylates and other products,Akzo Nobel,Netherlands,Materials,1.0,2.0,63.73,36.27,0.0
+462-6-2014,2014,Aggregated Global Sales for Johnson  Johnson,Akzo Nobel,Netherlands,Materials,1000.0,3400.0,75.88,24.12,0.0
+462-6-2015,2015,Aggregated Global Sales for Johnson  Johnson,Akzo Nobel,Netherlands,Chemicals,1000.0,2910.0,74.23,25.77,0.0
+462-6-2016,2016,Aggregated Global Sales for Johnson  Johnson,Akzo Nobel,Netherlands,Materials,1.0,3.56,44.52,23.13,32.34
+462-9-2013,2013,Chlorine dioxide water solution produced in South America,Akzo Nobel,Netherlands,Materials,1000.0,850.0,44.52,23.13,32.34
+46693-1-2013,2013,Extra Neutral Potable Ethanol 964,NCP ALCOHOLS,South Africa,"Food, Beverage & Tobacco",1041.67,2019.0,44.52,23.13,32.34
+46693-1-2016,2016,Extra Neutral Potable Ethanol 964,NCP ALCOHOLS,South Africa,"Food, Beverage & Tobacco",1041.67,1280.0,44.52,23.13,32.34
+46702-1-2014,2014,Malt non HDP,MUNTONS PLC,United Kingdom,Food & Staples Retailing,1000.0,603.0,49.92,50.08,0.0
+46702-2-2015,2015,Malted barley,MUNTONS PLC,United Kingdom,Food & Staples Retailing,1000.0,520.0,44.52,23.13,32.34
+46702-2-2016,2016,Malted Barley,MUNTONS PLC,United Kingdom,"Food, Beverage & Tobacco",1000.0,561.0,56.15,29.54,14.31
+46702-3-2016,2016,Malt extract,MUNTONS PLC,United Kingdom,"Food, Beverage & Tobacco",1000.0,947.0,44.52,23.13,32.34
+46702-4-2016,2016,Malt flour in sack,MUNTONS PLC,United Kingdom,"Food, Beverage & Tobacco",1000.0,599.0,44.52,23.13,32.34
+46702-5-2016,2016,Unmalted barley at harvest,MUNTONS PLC,United Kingdom,"Food, Beverage & Tobacco",1000.0,240.0,44.52,23.13,32.34
+46807-1-2016,2016,H10311  La vie est belle,BORMIOLI LUIGI,Italy,Materials,0.35,0.944,44.52,23.13,32.34
+46807-2-2016,2016,H4953  Armani IO 100 ml,BORMIOLI LUIGI,Italy,Materials,0.2,0.531,44.52,23.13,32.34
+47200-1-2015,2015,H000 Settop Box,HUMAX ELECTRONICS CO LTD,South Korea,Technology Hardware & Equipment,1.99,79.188,11.75,1.61,86.6
+47410-1-2014,2014,Tire,Maxxis International,Taiwan,Automobiles & Components,12.7,105.924,44.52,23.13,32.34
+47498-1-2013,2013,Corrugated box average Corrugated box Sab miller,CartOne S.r.l.,Italy,Materials,1.0,1.16,88.79,11.21,0.0
+47502-1-2013,2013,metal crown caps,Fabrica de Tapas Bavaria,Colombia,"Food, Beverage & Tobacco",0.0,0.0004,44.52,23.13,32.34
+47502-1-2014,2014,Crown caps,Fabrica de Tapas Bavaria,Colombia,"Food, Beverage & Tobacco",0.0,0.00043,44.52,23.13,32.34
+48227-1-2013,2013,Sodium sulbactam 3,SHENYANG DONGRUI,China,Materials,1.0,70.0,44.52,23.13,32.34
+48227-2-2013,2013,cyanodiester,SHENYANG DONGRUI,China,Materials,1.0,6.0,44.52,23.13,32.34
+48354-1-2014,2014,480ml Bottle,"YONYU Plastics (Shanghai) Co.,Ltd",United States,Materials,0.05,0.07,44.52,23.13,32.34
+48354-2-2014,2014,18mm Cap,"YONYU Plastics (Shanghai) Co.,Ltd",United States,Materials,0.04,0.01,44.52,23.13,32.34
+48440-1-2016,2016,Fajar Board,PT Fajar Surya Wisesa Tbk,Indonesia,Materials,1000.0,721.0,44.52,23.13,32.34
+48775-1-2013,2013,Stevia Sweeteners,PURECIRCLE USA,Malaysia,"Food, Beverage & Tobacco",1.0,65.71,44.52,23.13,32.34
+48775-2-2013,2013,Stevia Sweetener,PURECIRCLE USA,Malaysia,"Food, Beverage & Tobacco",1.0,47.51,44.52,23.13,32.34
+48775-3-2013,2013,Natural Flavors,PURECIRCLE USA,Malaysia,"Food, Beverage & Tobacco",1.0,45.81,44.52,23.13,32.34
+48775-4-2013,2013,Stevia Sweeteners,PURECIRCLE USA,Malaysia,"Food, Beverage & Tobacco",1.0,74.64,44.52,23.13,32.34
+50932-1-2015,2015,Tobacco,MI (Michaelleides),Greece,Tobacco,1.0,0.7,57.14,42.86,0.0
+511-2-2014,2014,Semifinished aluminum sheet hot rolled products,Alcoa Corp.,United States,Materials,1000.0,3940.0,26.42,73.58,0.0
+511-2-2016,2016,Semifinished aluminum sheet hot rolled products,Alcoa Corp.,United States,Materials,1000.0,410.0,44.52,23.13,32.34
+511-3-2014,2014,Semifinished aluminum sheet cold rolled products,Alcoa Corp.,United States,Materials,1000.0,5340.0,44.52,23.13,32.34
+511-3-2016,2016,Semifinished aluminum sheet cold rolled products,Alcoa Corp.,United States,Materials,1000.0,410.0,44.52,23.13,32.34
+511-4-2016,2016,Alumina,Alcoa Corp.,United States,Materials,1000.0,2219.0,44.52,23.13,32.34
+511-5-2016,2016,Primary aluminum ingot,Alcoa Corp.,United States,Materials,1000.0,6512.0,44.52,23.13,32.34
+511-7-2016,2016,Cast aluminum products,Alcoa Corp.,United States,Materials,1000.0,720.0,44.52,23.13,32.34
+51489-1-2014,2014,kettle,DRAGON WILL ENTERPRISE,China,Consumer Durables & Apparel,1.3,50.0,44.52,23.13,32.34
+52397-1-2016,2016,aluminium wheel,ZHEJIANG WANFENG AUTO WHEEL CO LTD,China,Capital Goods,1.0,2.923,44.52,23.13,32.34
+5344-1-2013,2013,Vaccum Cleaners Canisters  Uprights,Electrolux,Sweden,Consumer Durables & Apparel,6.4,409.0,7.03,1.77,91.2
+5344-1-2014,2014,Vaccum Cleaners,Electrolux,Sweden,Consumer Durables & Apparel,6.4,409.0,7.03,1.77,91.2
+5344-1-2015,2015,Vaccum Cleaners,Electrolux,Sweden,"Consumer Durables, Household and Personal Products",6.4,409.0,7.03,1.77,91.2
+5414-1-2013,2013,Notebook Classmate PC E11IS is manufactured  designed by ECSs factory located in eastern China its GHG emission inventoried in 2012 by methodology of PAS 20502011 and verified by SGS ready,"Elitegroup computer systems co., Ltd.",Taiwan,Technology Hardware & Equipment,1.3,213.17,97.98,2.02,0.0
+5414-3-2013,2013,30L desktop model vBeijing2I for design stage plus manufacturing stage made by ECSs factory loacted in southern China GHG emission inventoried in 2012 by methodology of ISO 140641 and allocation basis by weight,"Elitegroup computer systems co., Ltd.",Taiwan,Technology Hardware & Equipment,9.26,1.672,44.52,23.13,32.34
+61026-1-2016,2016,Beedwire 096,WOLF,Germany,Automobiles & Components,450.0,502.0,44.52,23.13,32.34
+61026-2-2016,2016,Beedwire 127,WOLF,Germany,Automobiles & Components,450.0,446.0,44.52,23.13,32.34
+6860-10-2017,2017,S3840cdn,"Fuji Xerox Co., Ltd.",Japan,Technology Hardware & Equipment,26.0,2300.0,8.32,0.21,91.47
+6860-11-2017,2017,S3845cdn,"Fuji Xerox Co., Ltd.",Japan,Technology Hardware & Equipment,33.0,2400.0,10.92,0.21,88.87
+6860-1-2013,2013,C1760nw Perinter,"Fuji Xerox Co., Ltd.",Japan,Technology Hardware & Equipment,13.0,491.0,14.26,3.87,81.87
+6860-2-2013,2013,2150cdn  printer,"Fuji Xerox Co., Ltd.",Japan,Technology Hardware & Equipment,24.0,573.0,12.57,3.32,84.12
+6860-3-2014,2014,C2660dn,"Fuji Xerox Co., Ltd.",Japan,Technology Hardware & Equipment,25.6,1400.0,11.83,2.07,86.1
+6860-3-2015,2015,C2660dn,"Fuji Xerox Co., Ltd.",Japan,Technology Hardware & Equipment,25.6,1400.0,11.83,2.07,86.1
+6860-3-2017,2017,C2660dn,"Fuji Xerox Co., Ltd.",Japan,Technology Hardware & Equipment,25.6,1400.0,11.83,2.07,86.1
+6860-4-2014,2014,C2665dnf,"Fuji Xerox Co., Ltd.",Japan,Technology Hardware & Equipment,115.0,1500.0,15.58,1.51,82.92
+6860-4-2015,2015,C2665dnf,"Fuji Xerox Co., Ltd.",Japan,Technology Hardware & Equipment,115.0,1500.0,14.0,1.53,84.47
+6860-5-2017,2017,H625cdw,"Fuji Xerox Co., Ltd.",Japan,Technology Hardware & Equipment,31.7,1200.0,15.22,2.11,82.67
+6860-6-2017,2017,H815dw,"Fuji Xerox Co., Ltd.",Japan,Technology Hardware & Equipment,19.0,2300.0,5.64,0.61,93.75
+6860-7-2017,2017,H825cdw,"Fuji Xerox Co., Ltd.",Japan,Technology Hardware & Equipment,31.7,1300.0,14.14,1.96,83.9
+6860-8-2017,2017,S2815dn,"Fuji Xerox Co., Ltd.",Japan,Technology Hardware & Equipment,19.0,2300.0,5.64,0.61,93.75
+6860-9-2017,2017,S2825cdn,"Fuji Xerox Co., Ltd.",Japan,Technology Hardware & Equipment,31.7,1300.0,14.14,1.96,83.9
+6874-1-2013,2013,Desk Top PC  ESPRIMO 582,Fujitsu Ltd.,Japan,Technology Hardware & Equipment,5.89,140.1,0.93,0.35,98.72
+6874-1-2014,2014,Desk top personal computer,Fujitsu Ltd.,Japan,Software & Services,5.89,140.1,53.78,1.28,44.94
+6874-3-2017,2017,Server,Fujitsu Ltd.,Japan,Software & Services,7.0,690.0,44.52,23.13,32.34
+7164-1-2013,2013,Average of all GM vehicles produced and used in the 10 year lifecycle,General Motors Company,United States,Automobiles & Components,1820.09,27588.0,44.52,23.13,32.34
+7164-1-2014,2014,Average of all GM vehicles produced and used in the 10 year lifecycle,General Motors Company,United States,Automobiles & Components,1820.09,33933.0,1.9,0.59,97.51
+7164-1-2015,2015,Average of all GM vehicles produced and used in the 10 year lifecycle,General Motors Company,United States,Automobiles & Components,1820.09,39100.0,1.61,0.5,97.89
+7164-1-2016,2016,Average GM Vehicle,General Motors Company,United States,Automobiles & Components,1820.09,36386.0,44.52,23.13,32.34
+7283-1-2013,2013,Cast iron pipes and fittings,Georg Fischer,Switzerland,Capital Goods,1.0,2.42,82.64,16.53,0.83
+73475-1-2016,2016,Coal,"CNX Coal Resources, LP",United States,Energy,1000.0,3025.0,18.87,9.99,71.14
+8338-1-2014,2014,Elevator,"Hitachi, Ltd.",Japan,Technology Hardware & Equipment,2270.0,9328.0,44.52,23.13,32.34
+8362-1-2016,2016,Land Cruiser Prado FJ Cruiser Dyna trucks ToyoaceIMV def unit,"Hino Motors, Ltd.",Japan,Automobiles & Components,2272.33,191687.0,2.9,0.25,96.85
+8517-1-2014,2014,Invercote,Holmen,Sweden,Materials,1000.0,370.0,44.52,23.13,32.34
+8517-1-2015,2015,Invercote,Holmen,Sweden,"Forest and Paper Products - Forestry, Timber, Pulp and Paper, Rubber",1000.0,211.0,19.29,53.72,26.99
+8517-2-2014,2014,Incada,Holmen,Sweden,Materials,1000.0,292.0,44.52,23.13,32.34
+8517-2-2015,2015,Incada,Holmen,Sweden,"Forest and Paper Products - Forestry, Timber, Pulp and Paper, Rubber",1000.0,210.0,22.65,63.07,14.29
+8663-1-2015,2015,4Gb LPDDR2 SDRAM,SK Hynix,South Korea,Semiconductors & Semiconductors Equipment,0.01,0.634,44.52,23.13,32.34
+8663-2-2015,2015,64Gb NAND Flash MLC,SK Hynix,South Korea,Semiconductors & Semiconductors Equipment,0.01,0.691,44.52,23.13,32.34
+8663-3-2015,2015,4Gb LPDDR3 SDRAM,SK Hynix,South Korea,Semiconductors & Semiconductors Equipment,0.01,0.735,44.52,23.13,32.34
+904-1-2013,2013,Organic coated coil for the Nature product range which includes the products Granite and Estetic having a mean surface mass of 47kg The Nature range of innovative chromiumfree organic coated steels for the construction industry is the result of 15 years of research in partnership with paint suppliers to develop safer and greener corrosioninhibiting pigments,Arcelor Mittal,Luxembourg,Materials,4.7,7.3,44.52,23.13,32.34
+904-2-2013,2013,Retaining wall structure with a main wall sheet pile 136 tonnes of steel sheet piles and 4 tonnes of tierods per 100 meter wall,Arcelor Mittal,Luxembourg,Materials,140000.0,167000.0,44.52,23.13,32.34
+9101-1-2015,2015,Ingenico terminals,Ingenico,France,Technology Hardware & Equipment,0.6,49.98,58.66,2.79,38.54
+9298-1-2013,2013,Server CPU,Intel Corporation,United States,Technology Hardware & Equipment,0.41,29.0,24.14,68.97,6.9
+9298-1-2014,2014,Server CPU,Intel Corporation,United States,Semiconductors & Semiconductor Equipment,0.41,29.0,32.07,54.14,13.79
+9298-2-2013,2013,Desktop CPU,Intel Corporation,United States,Technology Hardware & Equipment,0.41,14.0,21.43,71.43,7.14
+9298-2-2014,2014,Desktop CPU,Intel Corporation,United States,Semiconductors & Semiconductor Equipment,0.41,14.0,32.14,54.29,13.57
+9298-3-2013,2013,Mobile CPU,Intel Corporation,United States,Technology Hardware & Equipment,0.41,7.0,28.57,71.43,0.0
+9298-3-2014,2014,Mobile CPU,Intel Corporation,United States,Semiconductors & Semiconductor Equipment,0.41,7.0,31.43,54.29,14.29
+9792-1-2017,2017,Complete catalyst system for dieselpowered passenger car exhaust,Johnson Matthey,United Kingdom,Materials,2.0,188.0,44.52,23.13,32.34
+9792-2-2017,2017,Threeway Catalyst for gasolinepowered passenger car exhaust,Johnson Matthey,United Kingdom,Materials,2.0,63.0,44.52,23.13,32.34
